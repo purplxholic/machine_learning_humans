@@ -3,11 +3,13 @@ décoration B-neutral
 est O
 horrible O
 . O
+
 #UNK# I-negative
 de I-negative
 tapas I-positive
 #UNK# I-negative
 . O
+
 Nous O
 avons O
 été O
@@ -24,6 +26,7 @@ les O
 prix O
 bas O
 . O
+
 Le O
 plat B-negative
 du I-neutral
@@ -43,7 +46,7 @@ qualité O
 ; O
 ce O
 jour I-neutral
-#UNK# I-negative
+là O
 si O
 le O
 #UNK# I-negative
@@ -55,7 +58,7 @@ l O
 accompagnement O
 très O
 limite O
-#UNK# I-negative
+à I-positive
 savoir O
 des I-positive
 pâtes B-negative
@@ -63,10 +66,12 @@ pâtes B-negative
 et O
 froides O
 . O
+
 Très O
 bon O
 bistrot B-neutral
 . O
+
 Des O
 pizzas B-neutral
 #UNK# I-negative
@@ -83,6 +88,7 @@ spécialités O
 du I-neutral
 coin O
 . O
+
 Ensuite O
 les O
 plats B-neutral
@@ -99,6 +105,7 @@ le O
 burger B-negative
 maison I-positive
 ! O
+
 #UNK# I-negative
 le O
 service B-negative
@@ -113,7 +120,7 @@ qui O
 ne O
 #UNK# I-negative
 pas O
-#UNK# I-negative
+à I-positive
 #UNK# I-negative
 #UNK# I-negative
 de I-negative
@@ -122,6 +129,7 @@ de I-negative
 ce O
 restaurant B-neutral
 . O
+
 En O
 bref O
 c O
@@ -134,6 +142,7 @@ meilleurs O
 bistrot B-neutral
 parisien O
 . O
+
 #UNK# I-negative
 jamais O
 vu O
@@ -151,6 +160,7 @@ se O
 sans I-positive
 #UNK# I-negative
 ... O
+
 #UNK# I-negative
 #UNK# I-negative
 , O
@@ -174,6 +184,7 @@ moules B-neutral
 étaient O
 bonnes O
 . O
+
 Mais O
 plutôt O
 d'une I-negative
@@ -182,6 +193,7 @@ chose O
 trop O
 #UNK# I-negative
 . O
+
 Le O
 restaurant B-neutral
 se O
@@ -196,6 +208,7 @@ ambiance B-positive
 est O
 #UNK# I-negative
 . O
+
 Le O
 cadre B-positive
 est O
@@ -227,10 +240,11 @@ de I-negative
 faire O
 des I-positive
 #UNK# I-negative
-#UNK# I-negative
+à I-positive
 la I-positive
 #UNK# I-negative
 . O
+
 accueil B-positive
 sympathique O
 , O
@@ -256,6 +270,7 @@ problème O
 #UNK# I-negative
 depuis O
 . O
+
 La O
 #UNK# I-negative
 fois O
@@ -272,6 +287,7 @@ en I-neutral
 tout O
 cas O
 ! O
+
 Je O
 #UNK# I-negative
 qu'une O
@@ -279,6 +295,7 @@ qu'une O
 : O
 partir O
 ! O
+
 #UNK# I-negative
 mon O
 #UNK# I-negative
@@ -295,6 +312,7 @@ avons O
 très O
 déçus O
 . O
+
 Si O
 l'on O
 veut O
@@ -309,6 +327,7 @@ en I-neutral
 supplément B-negative
 ! O
 ! O
+
 L O
 ' O
 assiette B-neutral
@@ -326,10 +345,12 @@ pas O
 si O
 #UNK# I-negative
 . O
+
 #UNK# I-negative
-#UNK# I-negative
+à I-positive
 #UNK# I-negative
 . O
+
 Nous O
 lui O
 avons O
@@ -358,6 +379,7 @@ c'est O
 très O
 moyen O
 . O
+
 #UNK# I-negative
 du I-neutral
 #UNK# I-negative
@@ -381,6 +403,7 @@ est O
 totalement O
 #UNK# I-negative
 . O
+
 Des O
 #UNK# I-negative
 de I-negative
@@ -390,11 +413,12 @@ des I-positive
 #UNK# I-negative
 #UNK# I-negative
 . O
+
 Une O
 serveuse B-negative
 nous O
 #UNK# I-negative
-#UNK# I-negative
+à I-positive
 la I-positive
 #UNK# I-negative
 pour I-neutral
@@ -420,6 +444,7 @@ dans O
 #UNK# I-negative
 ! O
 " I-neutral
+
 Une O
 serveuse B-negative
 qui O
@@ -448,6 +473,7 @@ d'une I-negative
 de I-negative
 #UNK# I-negative
 ... O
+
 #UNK# I-negative
 le O
 détour O
@@ -456,6 +482,7 @@ attention O
 : O
 #UNK# I-negative
 ! O
+
 Que O
 ce O
 #UNK# I-negative
@@ -481,12 +508,14 @@ qualité O
 prix O
 exceptionnel O
 . O
+
 Le O
 pire O
 sont O
 les O
 toilettes O
 . O
+
 Et O
 gout O
 , O
@@ -499,12 +528,14 @@ hauteur O
 du I-neutral
 prix O
 ! O
+
 Le O
 personnel B-positive
 est O
 très O
 #UNK# I-negative
 . O
+
 On O
 ne O
 peut O
@@ -516,6 +547,7 @@ de I-negative
 ce O
 restaurant B-neutral
 . O
+
 De O
 #UNK# I-negative
 #UNK# I-negative
@@ -528,6 +560,7 @@ un O
 bon O
 vin I-negative
 . O
+
 #UNK# I-negative
 nous O
 ne O
@@ -536,6 +569,7 @@ dans O
 ce O
 restaurant B-neutral
 . O
+
 Le O
 rapport O
 #UNK# I-negative
@@ -561,6 +595,7 @@ entre B-negative
 les O
 #UNK# I-negative
 . O
+
 #UNK# I-negative
 dans O
 une O
@@ -578,6 +613,7 @@ est O
 bien O
 #UNK# I-negative
 . O
+
 Nous O
 avons O
 beaucoup O
@@ -587,12 +623,13 @@ petit O
 restaurant B-neutral
 , O
 mais O
-#UNK# I-negative
+là O
 il O
 a I-positive
 beaucoup O
 #UNK# I-negative
 ... O
+
 Je O
 retournerais O
 avec I-negative
@@ -603,17 +640,19 @@ dans O
 ce O
 restaurant B-neutral
 . O
+
 Je O
 vous O
 le O
 déconseille O
 ... O
+
 Nous O
 avons O
 fait O
 la I-positive
 remarque O
-#UNK# I-negative
+à I-positive
 la I-positive
 serveuse B-negative
 qui O
@@ -622,10 +661,11 @@ a I-positive
 au I-positive
 cuisinier B-negative
 . O
+
 Vraiment O
 une O
 adresse B-positive
-#UNK# I-negative
+à I-positive
 #UNK# I-negative
 pour I-neutral
 les O
@@ -655,6 +695,7 @@ de I-negative
 bonne O
 qualité O
 . O
+
 Après O
 #UNK# I-negative
 les O
@@ -667,6 +708,7 @@ en I-neutral
 au I-positive
 bar B-neutral
 . O
+
 Même O
 si O
 ' O
@@ -684,6 +726,7 @@ les O
 du I-neutral
 #UNK# I-negative
 . O
+
 Pour O
 la I-positive
 #UNK# I-negative
@@ -700,6 +743,7 @@ du I-neutral
 de I-negative
 #UNK# I-negative
 ! O
+
 #UNK# I-negative
 #UNK# I-negative
 #UNK# I-negative
@@ -718,6 +762,7 @@ sur O
 la I-positive
 #UNK# I-negative
 . O
+
 La O
 musique B-neutral
 était O
@@ -725,6 +770,7 @@ vraiment O
 très O
 #UNK# I-negative
 . O
+
 seul O
 le O
 vin I-negative
@@ -743,9 +789,10 @@ desserts B-neutral
 sont O
 #UNK# I-negative
 quant O
-#UNK# I-negative
+à I-positive
 eux O
 . O
+
 Je O
 ne O
 #UNK# I-negative
@@ -757,6 +804,7 @@ n'y O
 retournerai O
 pas O
 ! O
+
 En O
 bref O
 , O
@@ -777,6 +825,7 @@ ses B-positive
 #UNK# I-negative
 #UNK# I-negative
 ! O
+
 Un O
 pain B-negative
 qui O
@@ -787,6 +836,7 @@ l'eau O
 #UNK# I-negative
 #UNK# I-negative
 . O
+
 L O
 ' O
 #UNK# I-negative
@@ -811,6 +861,7 @@ de I-negative
 #UNK# I-negative
 #UNK# I-negative
 . O
+
 Un O
 cadre B-positive
 simple O
@@ -832,10 +883,11 @@ en I-neutral
 et O
 goût O
 . O
+
 Une O
 bière B-negative
 #UNK# I-negative
-#UNK# I-negative
+à I-positive
 #UNK# I-negative
 euros I-neutral
 sans I-positive
@@ -849,16 +901,18 @@ bref O
 une O
 bière B-negative
 #UNK# I-negative
-#UNK# I-negative
+à I-positive
 l'eau O
 . O
+
 Ce O
 #UNK# I-negative
 notre O
 #UNK# I-negative
-#UNK# I-negative
+à I-positive
 #UNK# I-negative
 ! O
+
 un O
 resto B-neutral
 qui O
@@ -872,9 +926,10 @@ très O
 bien O
 cuisinés O
 . O
+
 Une O
 adresse B-positive
-#UNK# I-negative
+à I-positive
 #UNK# I-negative
 pour I-neutral
 #UNK# I-negative
@@ -887,7 +942,7 @@ et O
 le O
 #UNK# I-negative
 #UNK# I-negative
-#UNK# I-negative
+à I-positive
 réserver O
 en I-neutral
 bas O
@@ -908,6 +963,7 @@ est O
 avec I-negative
 le O
 sourire O
+
 Tout O
 d'abord O
 un O
@@ -982,17 +1038,21 @@ de I-negative
 la I-positive
 peine O
 . O
+
 Les O
 produits B-positive
 sont O
 de I-negative
 saison O
 . O
+
 Service B-positive
 #UNK# I-negative
 . O
+
 Ah O
 ! O
+
 Des O
 produits B-positive
 , O
@@ -1004,6 +1064,7 @@ et O
 très O
 bons O
 . O
+
 Le O
 soir O
 pas O
@@ -1024,11 +1085,12 @@ ne O
 s'y O
 #UNK# I-negative
 pas O
-#UNK# I-negative
+à I-positive
 mon O
 sens O
 ) O
 . O
+
 Nous O
 n'y O
 #UNK# I-negative
@@ -1036,27 +1098,30 @@ plus O
 les O
 pieds O
 ! O
+
 A O
 recommander O
 #UNK# I-negative
 fois O
 ! O
+
 1 O
 #UNK# I-negative
 Resto B-positive
 par O
 personne O
+
 Au O
 départ O
 nous O
 avions O
-#UNK# I-negative
+déjà O
 l O
 impression O
 de I-negative
 déranger O
 , O
-#UNK# I-negative
+à I-positive
 la I-positive
 limite O
 pas O
@@ -1075,10 +1140,11 @@ les O
 serveurs B-negative
 #UNK# I-negative
 . O
+
 Je O
 suis O
 allé O
-#UNK# I-negative
+à I-positive
 plusieurs O
 #UNK# I-negative
 lors O
@@ -1094,17 +1160,19 @@ cet O
 bien O
 situé O
 . O
+
 Les O
 prix O
 #UNK# I-negative
 sont O
 corrects O
 . O
+
 Que O
 le O
 chef I-neutral
 #UNK# I-negative
-#UNK# I-negative
+à I-positive
 #UNK# I-negative
 les O
 classiques O
@@ -1118,6 +1186,7 @@ faisait O
 avec I-negative
 #UNK# I-negative
 . O
+
 #UNK# I-negative
 #UNK# I-negative
 le O
@@ -1129,7 +1198,9 @@ et O
 moi O
 même O
 ... O
+
 .. O
+
 Un O
 grand O
 #UNK# I-negative
@@ -1145,7 +1216,7 @@ saveur O
 , O
 merci O
 également O
-#UNK# I-negative
+à I-positive
 l O
 ' O
 accueil B-positive
@@ -1163,6 +1234,7 @@ merci O
 et O
 merci O
 encore O
+
 Si O
 le O
 plat B-negative
@@ -1189,10 +1261,11 @@ trois O
 #UNK# I-negative
 le O
 tout O
-#UNK# I-negative
+à I-positive
 peine O
 chaud I-positive
 . O
+
 On O
 a I-positive
 même O
@@ -1203,9 +1276,11 @@ serveuse B-negative
 en I-neutral
 #UNK# I-negative
 ! O
+
 #UNK# I-negative
 situé O
 . O
+
 repas B-neutral
 et O
 un O
@@ -1215,6 +1290,7 @@ vin I-negative
 service B-negative
 impeccable O
 . O
+
 On O
 #UNK# I-negative
 les O
@@ -1232,6 +1308,7 @@ dans O
 le O
 restaurant B-neutral
 . O
+
 Certes O
 nous O
 n'avions O
@@ -1250,6 +1327,7 @@ plat B-negative
 , O
 gâteau B-positive
 . O
+
 un O
 des I-positive
 serveurs B-negative
@@ -1267,6 +1345,7 @@ très O
 et O
 sympa O
 . O
+
 Une O
 équipe B-positive
 aimable O
@@ -1287,7 +1366,7 @@ des I-positive
 pieds O
 de I-negative
 #UNK# I-negative
-#UNK# I-negative
+à I-positive
 tester O
 :) O
 ) O
@@ -1316,8 +1395,9 @@ suis O
 toujours O
 #UNK# I-negative
 ! O
+
 Rien O
-#UNK# I-negative
+à I-positive
 dire O
 , O
 simple O
@@ -1328,6 +1408,7 @@ et O
 très O
 frais O
 . O
+
 Nous O
 avons O
 #UNK# I-negative
@@ -1339,6 +1420,7 @@ et O
 toujours O
 excellents O
 ! O
+
 Pas O
 un O
 merci O
@@ -1346,6 +1428,7 @@ merci O
 quelle O
 #UNK# I-negative
 . O
+
 Très O
 belle O
 ambiance B-positive
@@ -1363,8 +1446,9 @@ ou O
 / I-neutral
 #UNK# I-negative
 . O
+
 #UNK# I-negative
-#UNK# I-negative
+à I-positive
 été O
 un O
 peu O
@@ -1393,13 +1477,14 @@ que O
 nous O
 #UNK# I-negative
 seulement O
-#UNK# I-negative
+à I-positive
 goûter O
 les O
 #UNK# I-negative
 de I-negative
 #UNK# I-negative
 . O
+
 Les O
 desserts B-neutral
 #UNK# I-negative
@@ -1407,6 +1492,7 @@ desserts B-neutral
 sont O
 corrects O
 . O
+
 tous O
 les O
 #UNK# I-negative
@@ -1419,6 +1505,7 @@ très O
 bonne O
 soirée O
 ! O
+
 #UNK# I-negative
 qui O
 #UNK# I-negative
@@ -1441,10 +1528,12 @@ de I-negative
 ma O
 part B-positive
 ... O
+
 Tout O
 est O
 dit I-positive
 . O
+
 #UNK# I-negative
 #UNK# I-negative
 - I-positive
@@ -1472,6 +1561,7 @@ une O
 soupe B-neutral
 #UNK# I-negative
 . O
+
 Nous O
 avons O
 été O
@@ -1482,6 +1572,7 @@ prix O
 plutôt O
 corrects O
 . O
+
 Nous O
 avons O
 pris O
@@ -1491,6 +1582,7 @@ chaude O
 pour I-neutral
 deux O
 . O
+
 Pour O
 #UNK# I-negative
 des I-positive
@@ -1499,16 +1591,19 @@ beaucoup O
 plus O
 sympas O
 . O
+
 Accueil B-negative
 très O
 sympathique O
 . O
+
 Des O
 serveurs B-negative
 #UNK# I-negative
 au I-positive
 possible O
 . O
+
 Un O
 tartare B-neutral
 de I-negative
@@ -1517,11 +1612,13 @@ avec I-negative
 trop O
 #UNK# I-negative
 . O
+
 #UNK# I-negative
 #UNK# I-negative
 moins O
 l'addition O
 ! O
+
 Il O
 revient O
 après O
@@ -1538,6 +1635,7 @@ des I-positive
 moules B-neutral
 #UNK# I-negative
 . O
+
 Accueil B-negative
 très O
 très O
@@ -1555,7 +1653,7 @@ des I-positive
 plats B-neutral
 #UNK# I-negative
 comme O
-#UNK# I-negative
+à I-positive
 la I-positive
 maison I-positive
 , O
@@ -1571,6 +1669,7 @@ en I-neutral
 ! O
 ! O
 ! O
+
 Pas O
 de I-negative
 responsable B-negative
@@ -1579,10 +1678,11 @@ le O
 restaurant B-neutral
 pour I-neutral
 #UNK# I-negative
-#UNK# I-negative
+à I-positive
 nos O
 #UNK# I-negative
 . O
+
 Pour O
 avoir O
 été O
@@ -1625,6 +1725,7 @@ dans O
 ce O
 restaurant B-neutral
 ! O
+
 Le O
 cadre B-positive
 et O
@@ -1633,9 +1734,11 @@ personnel B-positive
 sont O
 agréables O
 . O
+
 Très O
 agréable O
 . O
+
 La O
 note O
 qui O
@@ -1657,6 +1760,7 @@ ces O
 moules B-neutral
 #UNK# I-negative
 . O
+
 Service B-positive
 #UNK# I-negative
 et O
@@ -1680,6 +1784,7 @@ plats B-neutral
 sont O
 #UNK# I-negative
 . O
+
 Mais O
 dans O
 l'assiette O
@@ -1694,6 +1799,7 @@ au I-positive
 resto B-neutral
 #UNK# I-negative
 ! O
+
 j'ai O
 pris O
 bavette B-negative
@@ -1701,6 +1807,7 @@ avec I-negative
 des I-positive
 frites B-negative
 ! O
+
 A O
 deux O
 #UNK# I-negative
@@ -1713,6 +1820,7 @@ se O
 en I-neutral
 dîner B-negative
 . O
+
 L O
 ' O
 entrée B-neutral
@@ -1725,6 +1833,7 @@ plat B-negative
 du I-neutral
 jour I-neutral
 . O
+
 #UNK# I-negative
 de I-negative
 poissons B-positive
@@ -1734,6 +1843,7 @@ donc O
 #UNK# I-negative
 frais O
 . O
+
 Quel O
 plaisir O
 #UNK# I-negative
@@ -1757,15 +1867,16 @@ on O
 n'est O
 plus O
 habitués O
-#UNK# I-negative
+à I-positive
 ce O
 #UNK# I-negative
 #UNK# I-negative
 , O
 surtout O
-#UNK# I-negative
+à I-positive
 Paris O
 ! O
+
 Encore O
 une O
 fois O
@@ -1775,7 +1886,7 @@ semble O
 être O
 la I-positive
 brasserie B-neutral
-#UNK# I-negative
+à I-positive
 touriste O
 typiquement O
 parisienne I-neutral
@@ -1798,6 +1909,7 @@ payer O
 un O
 #UNK# I-negative
 ! O
+
 #UNK# I-negative
 au I-positive
 départ O
@@ -1832,12 +1944,14 @@ avec I-negative
 nos O
 amis O
 . O
+
 C'est O
 la I-positive
 fin O
 de I-negative
 service B-negative
 . O
+
 #UNK# I-negative
 #UNK# I-negative
 , O
@@ -1851,6 +1965,7 @@ un O
 samedi O
 soir O
 ... O
+
 Pas O
 mal O
 , O
@@ -1858,6 +1973,7 @@ mais O
 sans I-positive
 plus O
 . O
+
 #UNK# I-negative
 ne O
 vaut O
@@ -1866,6 +1982,7 @@ pas O
 le O
 prix O
 ... O
+
 Je O
 demande O
 au I-positive
@@ -1877,6 +1994,7 @@ pas O
 un O
 #UNK# I-negative
 . O
+
 Le O
 cadre B-positive
 , O
@@ -1887,6 +2005,7 @@ de I-negative
 la I-positive
 #UNK# I-negative
 . O
+
 Un O
 serveur B-negative
 sympathique O
@@ -1897,6 +2016,7 @@ seul O
 point O
 #UNK# I-negative
 . O
+
 une O
 pizza B-neutral
 assez O
@@ -1906,6 +2026,7 @@ servie I-positive
 sans I-positive
 couverts O
 ? O
+
 situé O
 dans O
 la I-positive
@@ -1927,9 +2048,10 @@ pour I-neutral
 cette O
 #UNK# I-negative
 #UNK# I-negative
-#UNK# I-negative
+à I-positive
 #UNK# I-negative
 . O
+
 #UNK# I-negative
 dîner B-negative
 , O
@@ -1955,10 +2077,11 @@ a I-positive
 été O
 déçu O
 . O
+
 Très O
 beau O
 menu B-neutral
-#UNK# I-negative
+à I-positive
 #UNK# I-negative
 euros I-neutral
 le O
@@ -1969,6 +2092,7 @@ tout O
 le O
 temps O
 . O
+
 Le O
 service B-negative
 est O
@@ -1989,6 +2113,7 @@ l O
 ' O
 endroit B-positive
 . O
+
 Le O
 #UNK# I-negative
 est O
@@ -2010,12 +2135,14 @@ personnes O
 très O
 #UNK# I-negative
 ! O
+
 #UNK# I-negative
 sur O
 toute O
 la I-positive
 #UNK# I-negative
 . O
+
 Cela O
 reste O
 quand O
@@ -2027,12 +2154,14 @@ resto B-neutral
 a I-positive
 tester O
 . O
+
 Personnel B-positive
 très O
 #UNK# I-negative
 et O
 #UNK# I-negative
 . O
+
 #UNK# I-negative
 table B-positive
 où O
@@ -2060,15 +2189,18 @@ bien O
 de I-negative
 #UNK# I-negative
 ... O
+
 Un O
 peu O
 #UNK# I-negative
 . O
+
 #UNK# I-negative
 parler O
 de I-negative
 l'huile I-positive
 ! O
+
 Entrée B-negative
 , O
 plat B-negative
@@ -2078,6 +2210,7 @@ nous O
 avons O
 adoré O
 ! O
+
 dommage O
 , O
 c'est O
@@ -2086,6 +2219,7 @@ du I-neutral
 #UNK# I-negative
 ! O
 ! O
+
 Les O
 plats B-neutral
 sont O
@@ -2095,6 +2229,7 @@ l'entrée O
 au I-positive
 dessert B-negative
 . O
+
 Pas O
 #UNK# I-negative
 #UNK# I-negative
@@ -2105,6 +2240,7 @@ ce O
 bar B-neutral
 est O
 #UNK# I-negative
+
 Une O
 belle O
 carte B-neutral
@@ -2113,6 +2249,7 @@ de I-negative
 bonnes O
 surprises O
 . O
+
 #UNK# I-negative
 #UNK# I-negative
 , O
@@ -2122,12 +2259,14 @@ pas O
 du I-neutral
 coin O
 ? O
+
 Nous O
 #UNK# I-negative
 une O
 #UNK# I-negative
 chance O
 . O
+
 aucun O
 geste O
 #UNK# I-negative
@@ -2143,6 +2282,7 @@ proposé O
 ? O
 ? O
 ! O
+
 La O
 déco B-positive
 est O
@@ -2152,6 +2292,7 @@ de I-negative
 et O
 #UNK# I-negative
 . O
+
 #UNK# I-negative
 le O
 serveur B-negative
@@ -2180,6 +2321,7 @@ que O
 j'avais O
 demandé O
 . O
+
 Si O
 vous O
 avez O
@@ -2190,6 +2332,7 @@ passez O
 votre O
 chemin O
 . O
+
 Entrée B-negative
 au I-positive
 chèvre I-neutral
@@ -2212,6 +2355,7 @@ un O
 vrai O
 délice O
 ! O
+
 La O
 carte B-neutral
 pourtant O
@@ -2221,6 +2365,7 @@ bien O
 et O
 alléchante O
 . O
+
 Service B-positive
 très O
 #UNK# I-negative
@@ -2232,6 +2377,7 @@ mal O
 #UNK# I-negative
 ) O
 . O
+
 Il O
 prend O
 la I-positive
@@ -2251,6 +2397,7 @@ aux I-positive
 autres O
 serveurs B-negative
 . O
+
 Les O
 plats B-neutral
 sont O
@@ -2262,6 +2409,7 @@ et O
 bien O
 #UNK# I-negative
 . O
+
 Des O
 produits B-positive
 frais O
@@ -2279,6 +2427,7 @@ au I-positive
 petit O
 #UNK# I-negative
 . O
+
 Après O
 ça O
 mais O
@@ -2289,6 +2438,7 @@ dans O
 la I-positive
 salle I-neutral
 . O
+
 La O
 cuisine B-neutral
 était O
@@ -2298,6 +2448,7 @@ l O
 ambiance B-positive
 sympa O
 . O
+
 Le O
 patron B-negative
 est O
@@ -2309,7 +2460,7 @@ j'ai O
 même O
 eu O
 droit O
-#UNK# I-negative
+à I-positive
 une O
 pizza B-neutral
 #UNK# I-negative
@@ -2317,6 +2468,7 @@ sans I-positive
 rien O
 demander O
 . O
+
 #UNK# I-negative
 hyper O
 sec O
@@ -2327,7 +2479,7 @@ cuit O
 frites B-negative
 sans I-positive
 goût O
-#UNK# I-negative
+à I-positive
 part B-positive
 #UNK# I-negative
 de I-negative
@@ -2354,6 +2506,7 @@ de I-negative
 cette O
 soirée O
 . O
+
 Côté O
 cuisine B-neutral
 , O
@@ -2368,6 +2521,7 @@ de I-negative
 ou O
 #UNK# I-negative
 ... O
+
 Une O
 #UNK# I-negative
 #UNK# I-negative
@@ -2378,12 +2532,14 @@ a I-positive
 la I-positive
 soirée O
 . O
+
 #UNK# I-negative
 du I-neutral
 buffet B-negative
 très O
 #UNK# I-negative
 . O
+
 Nous O
 avons O
 demandé O
@@ -2410,6 +2566,7 @@ il O
 était O
 chaud I-positive
 . O
+
 On O
 aurait O
 du I-neutral
@@ -2423,13 +2580,15 @@ un O
 vendredi O
 soir O
 . O
+
 Ce O
 n'est O
 pas O
-#UNK# I-negative
+à I-positive
 tomber O
 par O
 terre I-negative
+
 En O
 entrée B-neutral
 , O
@@ -2460,6 +2619,7 @@ très O
 bon O
 ) O
 . O
+
 Dans O
 ce O
 quartier B-neutral
@@ -2484,6 +2644,7 @@ cuisine B-neutral
 de I-negative
 saison O
 . O
+
 Bref O
 une O
 addition O
@@ -2499,6 +2660,7 @@ mangé O
 sans I-positive
 plaisir O
 ! O
+
 Les O
 serveurs B-negative
 sont O
@@ -2507,11 +2669,13 @@ très O
 et O
 #UNK# I-negative
 . O
+
 La O
 carte B-neutral
 est O
 généreuse O
 . O
+
 Plats B-neutral
 bien O
 #UNK# I-negative
@@ -2521,6 +2685,7 @@ sauces B-neutral
 sont O
 également O
 bonnes O
+
 des I-positive
 plats B-neutral
 sans I-positive
@@ -2557,12 +2722,14 @@ bref O
 aucun O
 goût O
 . O
+
 La O
 sauce B-negative
 #UNK# I-negative
 le O
 poisson I-positive
 . O
+
 #UNK# I-negative
 fois O
 que O
@@ -2570,7 +2737,7 @@ le O
 service B-negative
 n'est O
 pas O
-#UNK# I-negative
+à I-positive
 la I-positive
 hauteur O
 de I-negative
@@ -2582,11 +2749,12 @@ les O
 que O
 je O
 #UNK# I-negative
-#UNK# I-negative
+à I-positive
 #UNK# I-negative
 , O
 dommage O
 . O
+
 Un O
 lieu B-positive
 simple O
@@ -2596,12 +2764,15 @@ une O
 agréable O
 soirée O
 ! O
+
 #UNK# I-negative
 #UNK# I-negative
 ! O
+
 Service B-positive
 aimable O
 . O
+
 #UNK# I-negative
 de I-negative
 plats B-neutral
@@ -2614,6 +2785,7 @@ des I-positive
 plats B-neutral
 médiocre O
 . O
+
 #UNK# I-negative
 cocktails B-positive
 et O
@@ -2621,6 +2793,7 @@ et O
 très O
 sympa O
 . O
+
 Pour O
 finir O
 le O
@@ -2650,6 +2823,7 @@ sur O
 la I-positive
 soupe B-neutral
 ! O
+
 La O
 cuisine B-neutral
 est O
@@ -2665,6 +2839,7 @@ se O
 sent O
 bien O
 . O
+
 Un O
 restaurant B-neutral
 extrêmement O
@@ -2677,6 +2852,7 @@ des I-positive
 #UNK# I-negative
 #UNK# I-negative
 ! O
+
 #UNK# I-negative
 #UNK# I-negative
 dire O
@@ -2705,6 +2881,7 @@ cuisine B-neutral
 #UNK# I-negative
 vraiment O
 ? O
+
 Le O
 saumon I-neutral
 n'était O
@@ -2718,10 +2895,12 @@ pas O
 assez O
 cuite O
 . O
+
 passez O
 votre O
 chemin O
 ! O
+
 A O
 tester O
 absolument O
@@ -2733,15 +2912,17 @@ très O
 très O
 faim O
 ! O
+
 Les O
 entrées B-neutral
 sont O
-#UNK# I-negative
+à I-positive
 #UNK# I-negative
 euros I-neutral
 et O
 copieuses O
 . O
+
 La O
 cuisine B-neutral
 qui O
@@ -2752,9 +2933,10 @@ une O
 au I-positive
 #UNK# I-negative
 . O
+
 J'ai O
 #UNK# I-negative
-#UNK# I-negative
+à I-positive
 avoir O
 des I-positive
 #UNK# I-negative
@@ -2771,6 +2953,7 @@ avons O
 été O
 #UNK# I-negative
 . O
+
 Accueil B-negative
 et O
 service B-negative
@@ -2778,11 +2961,13 @@ sont O
 agréables O
 et O
 #UNK# I-negative
+
 #UNK# I-negative
 nous O
 avons O
 #UNK# I-negative
 . O
+
 Un O
 bon O
 rapport O
@@ -2790,6 +2975,7 @@ qualité O
 / I-neutral
 prix O
 . O
+
 Je O
 ne O
 #UNK# I-negative
@@ -2797,6 +2983,7 @@ pas O
 cet O
 établissement B-negative
 . O
+
 #UNK# I-negative
 a I-positive
 beaucoup O
@@ -2809,6 +2996,7 @@ plus O
 les O
 pieds O
 ... O
+
 La O
 salle I-neutral
 est O
@@ -2819,10 +3007,11 @@ les O
 ne O
 sont O
 pas O
-#UNK# I-negative
+à I-positive
 la I-positive
 hauteur O
 . O
+
 #UNK# I-negative
 gourmand I-positive
 : O
@@ -2843,6 +3032,7 @@ sur O
 la I-positive
 carte B-neutral
 ) O
+
 Bon O
 accueil B-positive
 mais O
@@ -2851,6 +3041,7 @@ un O
 peu O
 long O
 . O
+
 #UNK# I-negative
 sur O
 des I-positive
@@ -2887,6 +3078,7 @@ de I-negative
 quantité B-neutral
 #UNK# I-negative
 . O
+
 Certes O
 , O
 ce O
@@ -2901,14 +3093,15 @@ on O
 ne O
 vient O
 pas O
-#UNK# I-negative
+à I-positive
 un O
 buffet B-negative
-#UNK# I-negative
+à I-positive
 volonté O
 pour I-neutral
 cela O
 . O
+
 Des O
 plats B-neutral
 correctement O
@@ -2927,6 +3120,7 @@ pour I-neutral
 le O
 quartier B-neutral
 . O
+
 Service B-positive
 #UNK# I-negative
 , O
@@ -2937,6 +3131,7 @@ note O
 très O
 salée O
 ! O
+
 Un O
 début O
 de I-negative
@@ -2955,7 +3150,7 @@ fois O
 une O
 #UNK# I-negative
 #UNK# I-negative
-#UNK# I-negative
+à I-positive
 #UNK# I-negative
 #UNK# I-negative
 pour I-neutral
@@ -2976,13 +3171,16 @@ de I-negative
 sa I-negative
 #UNK# I-negative
 . O
+
 #UNK# I-negative
 accueil B-positive
 . O
+
 #UNK# I-negative
 c'est O
 frais O
 , O
+
 #UNK# I-negative
 bien O
 la I-positive
@@ -3003,6 +3201,7 @@ plat B-negative
 du I-neutral
 jour I-neutral
 . O
+
 Mais O
 étant O
 donné O
@@ -3021,7 +3220,7 @@ nous O
 avons O
 été O
 #UNK# I-negative
-#UNK# I-negative
+à I-positive
 #UNK# I-negative
 ( O
 en I-neutral
@@ -3056,7 +3255,7 @@ dans O
 un O
 #UNK# I-negative
 #UNK# I-negative
-#UNK# I-negative
+à I-positive
 peine O
 #UNK# I-negative
 pour I-neutral
@@ -3076,6 +3275,7 @@ nos O
 #UNK# I-negative
 ) O
 . O
+
 #UNK# I-negative
 par O
 la I-positive
@@ -3091,7 +3291,7 @@ le O
 prix O
 du I-neutral
 menu B-neutral
-#UNK# I-negative
+à I-positive
 15 O
 € O
 #UNK# I-negative
@@ -3101,12 +3301,13 @@ cuisine B-neutral
 #UNK# I-negative
 ... O
 mais O
-#UNK# I-negative
+là O
 c'est O
 pire O
 que O
 tout O
 ... O
+
 Un O
 excellent O
 repas B-neutral
@@ -3122,6 +3323,7 @@ l'entrée O
 #UNK# I-negative
 dessert B-negative
 . O
+
 Quand O
 les O
 #UNK# I-negative
@@ -3140,7 +3342,9 @@ par O
 les O
 touristes I-negative
 . O
+
 ... O
+
 - I-positive
 Des O
 serveuses B-negative
@@ -3165,6 +3369,7 @@ et O
 d'une I-negative
 #UNK# I-negative
 #UNK# I-negative
+
 On O
 reste O
 sur O
@@ -3181,6 +3386,7 @@ pas O
 de I-negative
 #UNK# I-negative
 . O
+
 J'y O
 retournerai O
 certainement O
@@ -3216,6 +3422,7 @@ moins O
 sur O
 l'addition O
 . O
+
 #UNK# I-negative
 venus O
 avec I-negative
@@ -3223,6 +3430,7 @@ un O
 #UNK# I-negative
 #UNK# I-negative
 . O
+
 A O
 faire O
 si O
@@ -3249,9 +3457,10 @@ pas O
 ce O
 qui O
 manque O
-#UNK# I-negative
+à I-positive
 Paris O
 . O
+
 #UNK# I-negative
 parler O
 de I-negative
@@ -3261,11 +3470,13 @@ tout O
 simplement O
 délicieuse O
 ! O
+
 Je O
 #UNK# I-negative
 #UNK# I-negative
 depuis O
 longtemps O
+
 Le O
 cadre B-positive
 est O
@@ -3277,9 +3488,11 @@ est O
 très O
 correct O
 .. O
+
 Les O
 moins O
 : O
+
 Pour O
 deux O
 entrées B-neutral
@@ -3289,7 +3502,7 @@ plats B-neutral
 et O
 deux O
 desserts B-neutral
-#UNK# I-negative
+à I-positive
 la I-positive
 carte B-neutral
 avec I-negative
@@ -3311,11 +3524,12 @@ pour I-neutral
 € O
 ) O
 . O
+
 L O
 ’ O
 accueil B-positive
 laisse O
-#UNK# I-negative
+à I-positive
 penser O
 que O
 tout O
@@ -3329,6 +3543,7 @@ ne O
 se O
 passe O
 . O
+
 Nous O
 avions O
 #UNK# I-negative
@@ -3367,6 +3582,7 @@ avions O
 complètement O
 #UNK# I-negative
 . O
+
 Une O
 cuisine B-neutral
 #UNK# I-negative
@@ -3386,10 +3602,12 @@ c'est O
 un O
 vrai O
 restaurant B-neutral
+
 La O
 nourriture B-neutral
 est O
 moyenne O
+
 Le O
 service B-negative
 est O
@@ -3399,12 +3617,14 @@ mais O
 sans I-positive
 #UNK# I-negative
 . O
+
 Un O
 rapport O
 qualité O
 prix O
 correct O
 . O
+
 #UNK# I-negative
 #UNK# I-negative
 #UNK# I-negative
@@ -3414,17 +3634,19 @@ sont O
 #UNK# I-negative
 et O
 #UNK# I-negative
-#UNK# I-negative
+à I-positive
 la I-positive
 #UNK# I-negative
 et O
 en I-neutral
 #UNK# I-negative
 . O
+
 Une O
 #UNK# I-negative
 déception I-negative
 ! O
+
 Le O
 #UNK# I-negative
 des I-positive
@@ -3443,9 +3665,11 @@ l'entrée O
 aux I-positive
 desserts B-neutral
 . O
+
 Mais O
 après O
 : O
+
 Les O
 plats B-neutral
 sont O
@@ -3465,7 +3689,7 @@ ambiance B-positive
 #UNK# I-negative
 qui O
 correspond O
-#UNK# I-negative
+à I-positive
 #UNK# I-negative
 que O
 l'on O
@@ -3475,6 +3699,7 @@ de I-negative
 ses B-positive
 #UNK# I-negative
 . O
+
 Le O
 #UNK# I-negative
 #UNK# I-negative
@@ -3487,11 +3712,13 @@ et O
 pas O
 terre I-negative
 . O
+
 Très O
 #UNK# I-negative
 par O
 ce O
 restaurant B-neutral
+
 #UNK# I-negative
 ce O
 restaurant B-neutral
@@ -3508,6 +3735,7 @@ de I-negative
 la I-positive
 cuisine B-neutral
 ! O
+
 #UNK# I-negative
 d'eau O
 demandé O
@@ -3517,14 +3745,16 @@ avant O
 de I-negative
 #UNK# I-negative
 . O
+
 Je O
 le O
 recommande O
-#UNK# I-negative
+à I-positive
 tout O
 le O
 monde O
 ! O
+
 On O
 pourrait O
 presque O
@@ -3533,6 +3763,7 @@ croire O
 en I-neutral
 #UNK# I-negative
 . O
+
 Et O
 l O
 ' O
@@ -3540,3 +3771,4 @@ l O
 est O
 #UNK# I-negative
 ! O
+

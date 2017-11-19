@@ -31,7 +31,7 @@ four B-positive
 other O
 guests O
 . O
-#UNK# I-positive
+
 The B-neutral
 tuna B-negative
 and I-neutral
@@ -40,14 +40,14 @@ potatoes I-positive
 are O
 excellent O
 . O
-#UNK# I-positive
+
 My O
 #UNK# I-positive
 pizza I-neutral
 joint B-positive
 in I-negative
 Seattle O
-#UNK# I-positive
+
 Food B-neutral
 #UNK# I-positive
 , O
@@ -69,7 +69,7 @@ a O
 #UNK# I-positive
 place B-negative
 . O
-#UNK# I-positive
+
 – O
 #UNK# I-positive
 away O
@@ -79,7 +79,7 @@ the O
 #UNK# I-positive
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 My O
 mouth O
 felt O
@@ -105,7 +105,7 @@ left O
 the O
 restaurant B-negative
 . O
-#UNK# I-positive
+
 It's O
 a O
 tiny O
@@ -143,7 +143,7 @@ the O
 sushi B-positive
 bar B-positive
 . O
-#UNK# I-positive
+
 The B-neutral
 wine B-positive
 list I-positive
@@ -161,7 +161,7 @@ trip O
 to O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 We O
 all O
 #UNK# I-positive
@@ -178,12 +178,12 @@ in I-negative
 New B-positive
 York O
 . O
-#UNK# I-positive
+
 #UNK# I-positive
 it O
 #UNK# I-positive
 ! O
-#UNK# I-positive
+
 We O
 have O
 since O
@@ -211,7 +211,7 @@ and I-neutral
 good O
 ) I-positive
 . O
-#UNK# I-positive
+
 #UNK# I-positive
 to O
 #UNK# I-positive
@@ -223,7 +223,7 @@ less O
 #UNK# I-positive
 bagel B-negative
 ! O
-#UNK# I-positive
+
 It O
 was O
 so O
@@ -243,7 +243,7 @@ it O
 was O
 delicious O
 . O
-#UNK# I-positive
+
 the O
 staff B-negative
 was O
@@ -255,7 +255,7 @@ and I-neutral
 #UNK# I-positive
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 This O
 was O
 , O
@@ -269,7 +269,7 @@ a O
 #UNK# I-positive
 experience O
 . O
-#UNK# I-positive
+
 I O
 went O
 here O
@@ -291,7 +291,7 @@ get O
 a O
 table I-positive
 . O
-#UNK# I-positive
+
 We O
 #UNK# I-positive
 with I-positive
@@ -303,7 +303,7 @@ both O
 were O
 delicious O
 . O
-#UNK# I-positive
+
 Not O
 much O
 of I-neutral
@@ -319,7 +319,7 @@ went O
 with I-positive
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 – O
 This O
 review O
@@ -392,17 +392,17 @@ will O
 go O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 I'll O
 be O
 back O
 for O
 sure O
 . O
-#UNK# I-positive
+
 Good O
 #UNK# I-positive
-#UNK# I-positive
+
 The B-neutral
 #UNK# I-positive
 is O
@@ -410,7 +410,7 @@ always O
 fresh B-positive
 too O
 . O
-#UNK# I-positive
+
 Although O
 we O
 were O
@@ -428,7 +428,7 @@ got O
 were O
 great O
 . O
-#UNK# I-positive
+
 We've O
 tried O
 before O
@@ -441,15 +441,15 @@ doesn't O
 take O
 reservations O
 . O
-#UNK# I-positive
+
 #UNK# I-positive
 experience O
 . O
-#UNK# I-positive
+
 Good O
 drink O
 . O
-#UNK# I-positive
+
 There O
 is O
 " I-negative
@@ -462,7 +462,7 @@ is O
 #UNK# I-positive
 " I-negative
 ? O
-#UNK# I-positive
+
 And O
 it O
 was O
@@ -472,7 +472,7 @@ is O
 very O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 this O
 little O
 place B-negative
@@ -486,7 +486,7 @@ and I-neutral
 city I-positive
 prices O
 . O
-#UNK# I-positive
+
 The B-neutral
 location B-neutral
 and I-neutral
@@ -503,7 +503,7 @@ up O
 for O
 it O
 . O
-#UNK# I-positive
+
 I O
 #UNK# I-positive
 just O
@@ -538,7 +538,7 @@ money O
 and I-neutral
 time O
 . O
-#UNK# I-positive
+
 The B-neutral
 place B-negative
 itself O
@@ -552,7 +552,7 @@ to O
 be O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 Also O
 , O
 the O
@@ -572,7 +572,7 @@ or I-negative
 a O
 side B-neutral
 . O
-#UNK# I-positive
+
 The B-neutral
 stuff I-negative
 #UNK# I-positive
@@ -583,7 +583,7 @@ tasted O
 like O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 You O
 can O
 #UNK# I-positive
@@ -600,7 +600,7 @@ and I-neutral
 not O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 It's O
 #UNK# I-positive
 not O
@@ -615,7 +615,7 @@ to O
 #UNK# I-positive
 someone O
 . O
-#UNK# I-positive
+
 The B-neutral
 lamb B-positive
 was O
@@ -631,7 +631,7 @@ was O
 #UNK# I-positive
 ! O
 ! O
-#UNK# I-positive
+
 Great O
 vibe B-positive
 , O
@@ -639,7 +639,7 @@ vibe B-positive
 of I-neutral
 people B-positive
 . O
-#UNK# I-positive
+
 To O
 start O
 things O
@@ -659,7 +659,7 @@ my O
 drink O
 order O
 . O
-#UNK# I-positive
+
 We O
 #UNK# I-positive
 to O
@@ -680,7 +680,7 @@ the O
 food B-neutral
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 The B-neutral
 #UNK# I-positive
 was O
@@ -701,7 +701,7 @@ not O
 too O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 #UNK# I-positive
 food B-neutral
 - O
@@ -716,13 +716,13 @@ put O
 you O
 off O
 – O
-#UNK# I-positive
+
 #UNK# I-positive
 #UNK# I-positive
 Restaurant I-positive
 in I-negative
 Manhattan O
-#UNK# I-positive
+
 #UNK# I-positive
 is O
 a O
@@ -734,7 +734,7 @@ to O
 be O
 expected O
 . O
-#UNK# I-positive
+
 However O
 , O
 they O
@@ -761,7 +761,7 @@ on O
 your O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 Go I-negative
 to O
 japanese B-positive
@@ -780,7 +780,7 @@ is O
 a O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 Not O
 one O
 to O
@@ -821,7 +821,7 @@ their O
 #UNK# I-positive
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 I'm O
 #UNK# I-positive
 I O
@@ -839,7 +839,7 @@ gem O
 in I-negative
 NY O
 . O
-#UNK# I-positive
+
 It's O
 a O
 rather O
@@ -852,7 +852,7 @@ it O
 #UNK# I-positive
 early O
 . O
-#UNK# I-positive
+
 The B-neutral
 food B-neutral
 is O
@@ -867,12 +867,12 @@ very O
 very O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 #UNK# I-positive
 ... O
 good O
 ! O
-#UNK# I-positive
+
 But O
 $ O
 500 O
@@ -886,19 +886,19 @@ didn't O
 #UNK# I-positive
 #UNK# I-positive
 ? O
-#UNK# I-positive
+
 The B-neutral
 staff B-negative
 offers O
 #UNK# I-positive
 service B-negative
 . O
-#UNK# I-positive
+
 Great O
 Indian B-neutral
 Food B-neutral
 ! O
-#UNK# I-positive
+
 – O
 As O
 with I-positive
@@ -917,7 +917,7 @@ food B-neutral
 was O
 overpriced O
 . O
-#UNK# I-positive
+
 Great O
 #UNK# I-positive
 and I-neutral
@@ -928,7 +928,7 @@ the O
 pizza I-neutral
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 We O
 went O
 to O
@@ -936,7 +936,7 @@ to O
 for O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 The B-neutral
 wait B-neutral
 staff B-negative
@@ -970,7 +970,7 @@ $ O
 way O
 ) I-positive
 . O
-#UNK# I-positive
+
 There O
 is O
 something O
@@ -986,7 +986,7 @@ nearly O
 every O
 week O
 . O
-#UNK# I-positive
+
 The B-neutral
 last O
 two O
@@ -1019,7 +1019,7 @@ of I-neutral
 the O
 dish B-negative
 . O
-#UNK# I-positive
+
 #UNK# I-positive
 #UNK# I-positive
 , O
@@ -1035,7 +1035,7 @@ have O
 ever O
 tried O
 . O
-#UNK# I-positive
+
 If O
 I O
 could O
@@ -1050,7 +1050,7 @@ for O
 this O
 place B-negative
 . O
-#UNK# I-positive
+
 I O
 have O
 never O
@@ -1063,7 +1063,7 @@ of I-neutral
 good O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 When O
 family B-positive
 came O
@@ -1083,7 +1083,7 @@ ordered O
 for O
 them O
 . O
-#UNK# I-positive
+
 With O
 the O
 #UNK# I-positive
@@ -1113,13 +1113,13 @@ decent O
 not O
 great O
 . O
-#UNK# I-positive
+
 What O
 a O
 great O
 place B-negative
 . O
-#UNK# I-positive
+
 My O
 friend O
 is O
@@ -1132,7 +1132,7 @@ experience O
 we O
 had O
 . O
-#UNK# I-positive
+
 The B-neutral
 #UNK# I-positive
 of I-neutral
@@ -1150,7 +1150,7 @@ is O
 worth O
 it O
 . O
-#UNK# I-positive
+
 #UNK# I-positive
 of I-neutral
 the O
@@ -1165,17 +1165,17 @@ not O
 about O
 you O
 . O
-#UNK# I-positive
+
 Best O
 In O
 #UNK# I-positive
 of I-neutral
 NYC I-neutral
-#UNK# I-positive
+
 #UNK# I-positive
 me O
 . O
-#UNK# I-positive
+
 And O
 where O
 does O
@@ -1186,7 +1186,7 @@ wrong O
 no O
 where O
 . O
-#UNK# I-positive
+
 This O
 is O
 #UNK# I-positive
@@ -1219,7 +1219,7 @@ in I-negative
 the O
 city I-positive
 ! O
-#UNK# I-positive
+
 My O
 husband O
 said O
@@ -1249,7 +1249,7 @@ he O
 has O
 had O
 . O
-#UNK# I-positive
+
 We O
 asked O
 for O
@@ -1271,7 +1271,7 @@ of I-neutral
 our O
 order O
 . O
-#UNK# I-positive
+
 I O
 am O
 #UNK# I-positive
@@ -1282,7 +1282,7 @@ back O
 next O
 time O
 . O
-#UNK# I-positive
+
 #UNK# I-positive
 are O
 overpriced O
@@ -1296,7 +1296,7 @@ around O
 the O
 corner O
 : O
-#UNK# I-positive
+
 After O
 dinner I-neutral
 the O
@@ -1342,7 +1342,7 @@ they O
 #UNK# I-positive
 on O
 . O
-#UNK# I-positive
+
 It O
 was O
 well O
@@ -1350,7 +1350,7 @@ worth O
 the O
 wait B-neutral
 . O
-#UNK# I-positive
+
 My O
 husband O
 and I-neutral
@@ -1380,7 +1380,7 @@ it O
 was O
 fantastic O
 . O
-#UNK# I-positive
+
 My O
 wife O
 had O
@@ -1394,7 +1394,7 @@ and I-neutral
 loved O
 it O
 . O
-#UNK# I-positive
+
 I O
 #UNK# I-positive
 upon O
@@ -1408,7 +1408,7 @@ my O
 new I-positive
 neighborhood B-positive
 . O
-#UNK# I-positive
+
 It O
 ? O
 s I-neutral
@@ -1430,7 +1430,7 @@ were O
 in I-negative
 taste O
 . O
-#UNK# I-positive
+
 The B-neutral
 food B-neutral
 was O
@@ -1438,7 +1438,7 @@ absolutely O
 amazing O
 ! O
 ! O
-#UNK# I-positive
+
 We O
 put O
 out O
@@ -1461,7 +1461,7 @@ a O
 #UNK# I-positive
 wait B-neutral
 . O
-#UNK# I-positive
+
 I O
 do O
 not O
@@ -1482,7 +1482,7 @@ off O
 my O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 lobster B-neutral
 was O
 good O
@@ -1490,7 +1490,7 @@ good O
 nothing O
 spectacular O
 . O
-#UNK# I-positive
+
 i O
 actually O
 feel B-positive
@@ -1502,11 +1502,11 @@ it O
 a O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 Very O
 disappointed O
 . O
-#UNK# I-positive
+
 Try O
 the O
 #UNK# I-positive
@@ -1530,7 +1530,7 @@ sweet O
 #UNK# I-positive
 bread I-negative
 . O
-#UNK# I-positive
+
 #UNK# I-positive
 than O
 #UNK# I-positive
@@ -1561,7 +1561,7 @@ or I-negative
 presentation O
 ) I-positive
 . O
-#UNK# I-positive
+
 In O
 the O
 end O
@@ -1581,7 +1581,7 @@ A O
 ! O
 ! O
 ! O
-#UNK# I-positive
+
 – O
 I O
 am O
@@ -1602,7 +1602,7 @@ completely O
 my O
 expectations O
 . O
-#UNK# I-positive
+
 She O
 was O
 very O
@@ -1629,7 +1629,7 @@ about O
 Indian B-neutral
 food B-neutral
 . O
-#UNK# I-positive
+
 Went O
 here O
 on O
@@ -1637,7 +1637,7 @@ a O
 #UNK# I-positive
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 I O
 know O
 many O
@@ -1661,7 +1661,7 @@ and I-neutral
 good O
 taste O
 . O
-#UNK# I-positive
+
 I O
 went O
 there O
@@ -1682,12 +1682,12 @@ reviews O
 I O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 What O
 a O
 #UNK# I-positive
 ! O
-#UNK# I-positive
+
 This O
 place B-negative
 must O
@@ -1699,7 +1699,7 @@ owners B-negative
 to O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 On O
 the O
 way O
@@ -1715,7 +1715,7 @@ about O
 #UNK# I-positive
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 The B-neutral
 portions B-neutral
 are O
@@ -1733,7 +1733,7 @@ up O
 for O
 that O
 . O
-#UNK# I-positive
+
 We O
 all O
 felt O
@@ -1742,13 +1742,13 @@ was O
 worth O
 it O
 . O
-#UNK# I-positive
+
 Love O
 their O
 drink O
 menu I-neutral
 . O
-#UNK# I-positive
+
 If O
 you O
 are O
@@ -1764,7 +1764,7 @@ be O
 worth O
 it O
 . O
-#UNK# I-positive
+
 Service B-neutral
 was O
 kind O
@@ -1787,7 +1787,7 @@ wasn't O
 that O
 busy O
 . O
-#UNK# I-positive
+
 Its O
 worth O
 the O
@@ -1806,7 +1806,7 @@ table I-positive
 is O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 i O
 went O
 to O
@@ -1819,12 +1819,12 @@ with I-positive
 my O
 family B-positive
 . O
-#UNK# I-positive
+
 Service B-neutral
 is O
 average O
 . O
-#UNK# I-positive
+
 One O
 would O
 think O
@@ -1863,7 +1863,7 @@ to O
 do O
 so O
 . O
-#UNK# I-positive
+
 After O
 sitting B-negative
 at O
@@ -1891,7 +1891,7 @@ right O
 with I-positive
 us O
 . O
-#UNK# I-positive
+
 The B-neutral
 #UNK# I-positive
 #UNK# I-positive
@@ -1916,7 +1916,7 @@ order O
 a O
 drink O
 . O
-#UNK# I-positive
+
 If O
 it's O
 nice O
@@ -1930,7 +1930,7 @@ in I-negative
 the O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 Dokebi O
 #UNK# I-positive
 #UNK# I-positive
@@ -1950,7 +1950,7 @@ pork I-negative
 belly I-negative
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 It O
 is O
 also O
@@ -1958,7 +1958,7 @@ extremely O
 well O
 priced O
 . O
-#UNK# I-positive
+
 this O
 place B-negative
 ... O
@@ -1971,7 +1971,7 @@ on O
 day O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 Went O
 on O
 a O
@@ -2007,7 +2007,7 @@ was O
 so O
 great O
 ! O
-#UNK# I-positive
+
 #UNK# I-positive
 time O
 we O
@@ -2029,7 +2029,7 @@ and I-neutral
 #UNK# I-positive
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 The B-neutral
 drinks B-positive
 are O
@@ -2041,7 +2041,7 @@ made O
 by I-negative
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 Most O
 #UNK# I-positive
 , O
@@ -2049,13 +2049,13 @@ food B-neutral
 is O
 excellent O
 . O
-#UNK# I-positive
+
 The B-neutral
 service B-negative
 is O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 The B-neutral
 food B-neutral
 is O
@@ -2080,7 +2080,7 @@ of I-neutral
 and I-neutral
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 Went O
 here O
 last O
@@ -2099,7 +2099,7 @@ was O
 #UNK# I-positive
 excellent O
 . O
-#UNK# I-positive
+
 If O
 there O
 is O
@@ -2125,7 +2125,7 @@ it O
 is O
 great O
 . O
-#UNK# I-positive
+
 Everyone O
 seemed O
 generally O
@@ -2150,7 +2150,7 @@ in I-negative
 #UNK# I-positive
 #UNK# I-positive
 ! O
-#UNK# I-positive
+
 The B-neutral
 bathroom I-negative
 itself O
@@ -2181,7 +2181,7 @@ from O
 the O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 – O
 #UNK# I-positive
 or I-negative
@@ -2210,7 +2210,7 @@ poor O
 customer B-negative
 service B-negative
 . O
-#UNK# I-positive
+
 The B-neutral
 pizza I-neutral
 was O
@@ -2233,7 +2233,7 @@ a O
 second O
 ) I-positive
 . O
-#UNK# I-positive
+
 The B-neutral
 restaurant B-negative
 was O
@@ -2256,13 +2256,13 @@ we O
 were O
 seated O
 . O
-#UNK# I-positive
+
 For O
 a O
 #UNK# I-positive
 #UNK# I-positive
 ! O
-#UNK# I-positive
+
 The B-neutral
 #UNK# I-positive
 were O
@@ -2273,7 +2273,7 @@ soup I-negative
 and I-neutral
 rice B-negative
 . O
-#UNK# I-positive
+
 #UNK# I-positive
 , O
 no O
@@ -2306,7 +2306,7 @@ nothing O
 ! O
 ! O
 ! O
-#UNK# I-positive
+
 #UNK# I-positive
 there O
 while O
@@ -2317,16 +2317,16 @@ and I-neutral
 the O
 reviews O
 . O
-#UNK# I-positive
+
 A O
 must O
 try O
 ! O
-#UNK# I-positive
+
 #UNK# I-positive
 #UNK# I-positive
 ! O
-#UNK# I-positive
+
 This O
 is O
 a O
@@ -2341,11 +2341,11 @@ value O
 #UNK# I-positive
 money O
 . O
-#UNK# I-positive
+
 #UNK# I-positive
 the O
 wait B-neutral
-#UNK# I-positive
+
 I've O
 been O
 many O
@@ -2356,7 +2356,7 @@ never O
 been O
 disappointed O
 . O
-#UNK# I-positive
+
 The B-neutral
 servers B-negative
 #UNK# I-positive
@@ -2368,7 +2368,7 @@ friendly O
 and I-neutral
 helpful O
 . O
-#UNK# I-positive
+
 We O
 were O
 fast O
@@ -2383,7 +2383,7 @@ were O
 very O
 hungry O
 . O
-#UNK# I-positive
+
 I O
 also O
 recommend O
@@ -2401,23 +2401,23 @@ rice B-negative
 #UNK# I-positive
 ) I-positive
 . O
-#UNK# I-positive
+
 The B-neutral
 food B-neutral
 is O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 A O
 real O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 Love O
 #UNK# I-positive
 #UNK# I-positive
 La I-negative
-#UNK# I-positive
+
 The B-neutral
 only O
 thing O
@@ -2434,13 +2434,13 @@ very O
 pleasant O
 ) I-positive
 . O
-#UNK# I-positive
+
 I O
 highly O
 recommend O
 it O
 . O
-#UNK# I-positive
+
 Their O
 #UNK# I-positive
 are O
@@ -2452,7 +2452,7 @@ bad O
 , O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 I O
 #UNK# I-positive
 my O
@@ -2470,7 +2470,7 @@ it O
 to O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 #UNK# I-positive
 you O
 pay O
@@ -2490,7 +2490,7 @@ things O
 are O
 expensive O
 . O
-#UNK# I-positive
+
 The B-neutral
 service B-negative
 was O
@@ -2498,7 +2498,7 @@ was O
 and I-neutral
 attentive O
 . O
-#UNK# I-positive
+
 Great O
 food B-neutral
 and I-neutral
@@ -2508,7 +2508,7 @@ are O
 very O
 reasonable O
 . O
-#UNK# I-positive
+
 There O
 are O
 no O
@@ -2517,7 +2517,7 @@ to O
 #UNK# I-positive
 of I-neutral
 . O
-#UNK# I-positive
+
 The B-neutral
 #UNK# I-positive
 #UNK# I-positive
@@ -2537,7 +2537,7 @@ of I-neutral
 this O
 world O
 . O
-#UNK# I-positive
+
 I O
 love O
 #UNK# I-positive
@@ -2556,7 +2556,7 @@ about O
 different O
 #UNK# I-positive
 ! O
-#UNK# I-positive
+
 I O
 probably O
 wouldn't O
@@ -2573,7 +2573,7 @@ it's O
 worth O
 it O
 . O
-#UNK# I-positive
+
 This O
 place B-negative
 has O
@@ -2600,7 +2600,7 @@ the O
 same O
 time O
 . O
-#UNK# I-positive
+
 I O
 have O
 reservations O
@@ -2643,7 +2643,7 @@ off O
 the O
 menu I-neutral
 . O
-#UNK# I-positive
+
 Service B-neutral
 , O
 however O
@@ -2661,7 +2661,7 @@ atmosphere B-neutral
 a O
 lot O
 . O
-#UNK# I-positive
+
 This O
 establishment B-positive
 really O
@@ -2704,7 +2704,7 @@ was O
 #UNK# I-positive
 of I-neutral
 . O
-#UNK# I-positive
+
 As O
 a O
 Japanese B-negative
@@ -2731,7 +2731,7 @@ at O
 this O
 place B-negative
 . O
-#UNK# I-positive
+
 For O
 the O
 people B-positive
@@ -2750,13 +2750,13 @@ place B-negative
 to O
 #UNK# I-positive
 ! O
-#UNK# I-positive
+
 please O
 don't O
 #UNK# I-positive
 us O
 . O
-#UNK# I-positive
+
 #UNK# I-positive
 down O
 , O
@@ -2768,7 +2768,7 @@ have O
 ever O
 had O
 . O
-#UNK# I-positive
+
 The B-neutral
 #UNK# I-positive
 was O
@@ -2785,7 +2785,7 @@ the O
 pasta I-negative
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 #UNK# I-positive
 us O
 to O
@@ -2803,10 +2803,10 @@ table I-positive
 was O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 #UNK# I-positive
 ! O
-#UNK# I-positive
+
 I O
 know O
 because O
@@ -2814,7 +2814,7 @@ I O
 live B-positive
 nearby O
 . O
-#UNK# I-positive
+
 The B-neutral
 soup I-negative
 for O
@@ -2826,11 +2826,11 @@ sauce I-negative
 and I-neutral
 water I-negative
 . O
-#UNK# I-positive
+
 #UNK# I-positive
 THE O
 PLACE B-negative
-#UNK# I-positive
+
 It O
 was O
 one O
@@ -2854,7 +2854,7 @@ take O
 a O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 #UNK# I-positive
 in I-negative
 the O
@@ -2876,7 +2876,7 @@ their O
 #UNK# I-positive
 wine B-positive
 . O
-#UNK# I-positive
+
 I O
 took O
 one O
@@ -2889,10 +2889,10 @@ I O
 was O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 Great O
 #UNK# I-positive
-#UNK# I-positive
+
 fresh B-positive
 restaurant B-negative
 was O
@@ -2906,7 +2906,7 @@ of I-neutral
 course I-positive
 fresh B-positive
 . O
-#UNK# I-positive
+
 I O
 cannot O
 #UNK# I-positive
@@ -2918,7 +2918,7 @@ to O
 eat O
 there O
 . O
-#UNK# I-positive
+
 Even O
 after O
 they O
@@ -2931,7 +2931,7 @@ I O
 was O
 there O
 . O
-#UNK# I-positive
+
 We O
 did O
 #UNK# I-positive
@@ -2953,7 +2953,7 @@ for O
 a O
 table I-positive
 . O
-#UNK# I-positive
+
 I O
 have O
 been O
@@ -2962,7 +2962,7 @@ to O
 this O
 restaurant B-negative
 . O
-#UNK# I-positive
+
 The B-neutral
 #UNK# I-positive
 were O
@@ -2981,7 +2981,7 @@ back O
 very O
 soon O
 . O
-#UNK# I-positive
+
 Yes O
 , O
 I O
@@ -3016,7 +3016,7 @@ to O
 my O
 stomach O
 . O
-#UNK# I-positive
+
 The B-neutral
 place B-negative
 was O
@@ -3024,7 +3024,7 @@ nice O
 and I-neutral
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 I O
 have O
 it O
@@ -3071,7 +3071,7 @@ an O
 #UNK# I-positive
 feel B-positive
 . O
-#UNK# I-positive
+
 Our O
 server B-negative
 was O
@@ -3080,7 +3080,7 @@ very O
 and I-neutral
 friendly O
 . O
-#UNK# I-positive
+
 But O
 for O
 the O
@@ -3095,7 +3095,7 @@ better O
 in I-negative
 NY O
 . O
-#UNK# I-positive
+
 As O
 a O
 #UNK# I-positive
@@ -3125,7 +3125,7 @@ indian B-positive
 #UNK# I-positive
 by I-negative
 . O
-#UNK# I-positive
+
 Service B-neutral
 here O
 was O
@@ -3135,7 +3135,7 @@ food B-neutral
 was O
 fantastic O
 . O
-#UNK# I-positive
+
 I O
 wish O
 I O
@@ -3143,7 +3143,7 @@ I O
 be O
 #UNK# I-positive
 ! O
-#UNK# I-positive
+
 This O
 establishment B-positive
 is O
@@ -3159,7 +3159,7 @@ of I-neutral
 #UNK# I-positive
 group O
 . O
-#UNK# I-positive
+
 #UNK# I-positive
 has O
 the O
@@ -3170,7 +3170,7 @@ atmosphere B-neutral
 in I-negative
 NYC I-neutral
 . O
-#UNK# I-positive
+
 For O
 each O
 course I-positive
@@ -3189,7 +3189,7 @@ offered O
 a O
 drink O
 . O
-#UNK# I-positive
+
 #UNK# I-positive
 you O
 will O
@@ -3206,7 +3206,7 @@ expect O
 better O
 service B-negative
 . O
-#UNK# I-positive
+
 This O
 is O
 the O
@@ -3226,7 +3226,7 @@ or I-negative
 #UNK# I-positive
 drinks B-positive
 ! O
-#UNK# I-positive
+
 #UNK# I-positive
 nice O
 and I-neutral
@@ -3242,7 +3242,7 @@ or I-negative
 more O
 ) I-positive
 . O
-#UNK# I-positive
+
 Not O
 only O
 is O
@@ -3283,7 +3283,7 @@ in I-negative
 the O
 city I-positive
 . O
-#UNK# I-positive
+
 Even O
 though O
 the O
@@ -3298,7 +3298,7 @@ food B-neutral
 for O
 itself O
 . O
-#UNK# I-positive
+
 The B-neutral
 #UNK# I-positive
 #UNK# I-positive
@@ -3314,11 +3314,11 @@ that O
 #UNK# I-positive
 ! O
 ! O
-#UNK# I-positive
+
 Try O
 it O
 ! O
-#UNK# I-positive
+
 This O
 was O
 a O
@@ -3331,7 +3331,7 @@ be O
 back O
 again O
 . O
-#UNK# I-positive
+
 My O
 #UNK# I-positive
 and I-neutral
@@ -3350,7 +3350,7 @@ a O
 great O
 time O
 ! O
-#UNK# I-positive
+
 #UNK# I-positive
 was O
 very O
@@ -3358,7 +3358,7 @@ cozy O
 and I-neutral
 cute O
 . O
-#UNK# I-positive
+
 The B-neutral
 atmosphere B-neutral
 is O
@@ -3378,7 +3378,7 @@ as O
 they O
 can O
 . O
-#UNK# I-positive
+
 Best O
 #UNK# I-positive
 I O
@@ -3391,7 +3391,7 @@ without O
 being O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 The B-neutral
 #UNK# I-positive
 restaurant B-negative
@@ -3402,7 +3402,7 @@ going O
 for O
 it O
 . O
-#UNK# I-positive
+
 It O
 is O
 one O
@@ -3429,7 +3429,7 @@ in I-negative
 my O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 The B-neutral
 two O
 #UNK# I-positive
@@ -3445,7 +3445,7 @@ their O
 own O
 place B-negative
 . O
-#UNK# I-positive
+
 A O
 cool O
 bar B-positive
@@ -3459,7 +3459,7 @@ of I-neutral
 excellent O
 beer I-positive
 . O
-#UNK# I-positive
+
 She O
 #UNK# I-positive
 nearby O
@@ -3478,7 +3478,7 @@ be O
 too O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 The B-neutral
 menu I-neutral
 is O
@@ -3494,7 +3494,7 @@ or I-negative
 5 O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 In O
 fact O
 , O
@@ -3510,7 +3510,7 @@ at O
 any O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 #UNK# I-positive
 to O
 be O
@@ -3519,7 +3519,7 @@ tasty O
 experience O
 ! O
 ) I-positive
-#UNK# I-positive
+
 A O
 little O
 pricey O
@@ -3534,7 +3534,7 @@ a O
 Sunday O
 #UNK# I-positive
 ! O
-#UNK# I-positive
+
 My O
 #UNK# I-positive
 and I-neutral
@@ -3543,7 +3543,7 @@ I O
 this O
 place B-negative
 . O
-#UNK# I-positive
+
 I O
 have O
 a O
@@ -3562,7 +3562,7 @@ which O
 was O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 The B-neutral
 hot B-positive
 dogs I-positive
@@ -3592,7 +3592,7 @@ its O
 #UNK# I-positive
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 It O
 was O
 #UNK# I-positive
@@ -3603,7 +3603,7 @@ t O
 really O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 I O
 thought O
 I O
@@ -3614,7 +3614,7 @@ gone O
 to O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 The B-neutral
 food B-neutral
 is O
@@ -3623,7 +3623,7 @@ quickly O
 and I-neutral
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 This O
 place B-negative
 has O
@@ -3637,7 +3637,7 @@ in I-negative
 the O
 city I-positive
 . O
-#UNK# I-positive
+
 I O
 recommend O
 it O
@@ -3657,14 +3657,14 @@ a O
 bit O
 expensive O
 ) I-positive
-#UNK# I-positive
+
 We O
 were O
 then O
 #UNK# I-positive
 inside O
 . O
-#UNK# I-positive
+
 I O
 never O
 heard O
@@ -3677,7 +3677,7 @@ a O
 month O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 We O
 got O
 a O
@@ -3699,7 +3699,7 @@ are O
 all O
 about O
 ? O
-#UNK# I-positive
+
 A O
 restaurant B-negative
 that O
@@ -3720,7 +3720,7 @@ a O
 pleasant O
 atmosphere B-neutral
 . O
-#UNK# I-positive
+
 In O
 #UNK# I-positive
 , O
@@ -3738,7 +3738,7 @@ at O
 their O
 establishment B-positive
 . O
-#UNK# I-positive
+
 As O
 #UNK# I-positive
 the O
@@ -3757,7 +3757,7 @@ on O
 and I-neutral
 selection I-positive
 . O
-#UNK# I-positive
+
 I O
 #UNK# I-positive
 upon O
@@ -3781,7 +3781,7 @@ L O
 . O
 A O
 . O
-#UNK# I-positive
+
 I O
 think O
 I've O
@@ -3796,7 +3796,7 @@ my O
 at O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 – O
 Great O
 #UNK# I-positive
@@ -3804,20 +3804,20 @@ Great O
 #UNK# I-positive
 spot B-positive
 . O
-#UNK# I-positive
+
 I'll O
 keep O
 this O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 AMAZING O
 #UNK# I-positive
 #UNK# I-positive
 ! O
 ! O
 ! O
-#UNK# I-positive
+
 I'd O
 hate O
 for O
@@ -3840,7 +3840,7 @@ restaurants O
 are O
 like O
 . O
-#UNK# I-positive
+
 I O
 got O
 #UNK# I-positive
@@ -3852,7 +3852,7 @@ times O
 of I-neutral
 then O
 ! O
-#UNK# I-positive
+
 Great O
 bagels B-positive
 , O
@@ -3866,7 +3866,7 @@ hang O
 out O
 in I-negative
 . O
-#UNK# I-positive
+
 My O
 #UNK# I-positive
 year O
@@ -3874,7 +3874,7 @@ old O
 loved O
 it O
 . O
-#UNK# I-positive
+
 It's O
 very O
 spicy B-positive
@@ -3882,7 +3882,7 @@ but O
 not O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 I O
 had O
 #UNK# I-positive
@@ -3891,7 +3891,7 @@ with I-positive
 #UNK# I-positive
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 #UNK# I-positive
 staff B-negative
 that O
@@ -3907,7 +3907,7 @@ the O
 you're O
 with I-positive
 . O
-#UNK# I-positive
+
 The B-neutral
 pizza I-neutral
 is O
@@ -3915,14 +3915,14 @@ overpriced O
 and I-neutral
 soggy O
 . O
-#UNK# I-positive
+
 You O
 Can't O
 Go I-negative
 #UNK# I-positive
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 I O
 #UNK# I-positive
 the O
@@ -3940,7 +3940,7 @@ chocolate I-positive
 ... O
 yummy O
 ! O
-#UNK# I-positive
+
 But O
 the O
 best O
@@ -3954,7 +3954,7 @@ the O
 main I-negative
 thing O
 . O
-#UNK# I-positive
+
 #UNK# I-positive
 has O
 #UNK# I-positive
@@ -3967,7 +3967,7 @@ at O
 reasonable O
 prices O
 . O
-#UNK# I-positive
+
 I O
 am O
 #UNK# I-positive
@@ -3988,7 +3988,7 @@ to O
 #UNK# I-positive
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 To O
 be O
 completely O
@@ -4019,7 +4019,7 @@ other O
 of I-neutral
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 #UNK# I-positive
 service B-negative
 , O
@@ -4027,7 +4027,7 @@ food B-neutral
 ok O
 , O
 pricey O
-#UNK# I-positive
+
 The B-neutral
 place B-negative
 is O
@@ -4041,7 +4041,7 @@ prompt O
 and I-neutral
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 This O
 is O
 the O
@@ -4062,7 +4062,7 @@ keep O
 a O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 – O
 A O
 group O
@@ -4079,14 +4079,14 @@ and I-neutral
 sat O
 outside B-positive
 . O
-#UNK# I-positive
+
 The B-neutral
 food B-neutral
 was O
 actually O
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 The B-neutral
 service B-negative
 was O
@@ -4105,7 +4105,7 @@ his O
 were O
 amazing O
 ! O
-#UNK# I-positive
+
 #UNK# I-positive
 guests O
 enjoyed O
@@ -4120,7 +4120,7 @@ fish B-negative
 and I-neutral
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 I O
 had O
 the O
@@ -4131,12 +4131,12 @@ I O
 enjoyed O
 it O
 . O
-#UNK# I-positive
+
 love O
 the O
 food B-neutral
 . O
-#UNK# I-positive
+
 This O
 #UNK# I-positive
 and I-neutral
@@ -4152,7 +4152,7 @@ Manhattan O
 restaurant B-negative
 list I-positive
 . O
-#UNK# I-positive
+
 The B-neutral
 steak I-negative
 was O
@@ -4171,7 +4171,7 @@ nice O
 and I-neutral
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 The B-neutral
 three O
 of I-neutral
@@ -4194,7 +4194,7 @@ us O
 there O
 were O
 . O
-#UNK# I-positive
+
 Service B-neutral
 was O
 prompt O
@@ -4203,7 +4203,7 @@ friendly O
 and I-neutral
 great O
 . O
-#UNK# I-positive
+
 #UNK# I-positive
 menu I-neutral
 , O
@@ -4216,7 +4216,7 @@ fish B-negative
 #UNK# I-positive
 rice B-negative
 . O
-#UNK# I-positive
+
 However O
 , O
 it O
@@ -4229,7 +4229,7 @@ not O
 #UNK# I-positive
 it O
 . O
-#UNK# I-positive
+
 We O
 got O
 most O
@@ -4241,7 +4241,7 @@ home O
 with I-positive
 us O
 . O
-#UNK# I-positive
+
 This O
 is O
 by I-negative
@@ -4253,20 +4253,20 @@ in I-negative
 the O
 neighborhood B-positive
 . O
-#UNK# I-positive
+
 Will O
 absolutely O
 visit O
 again O
 . O
-#UNK# I-positive
+
 really O
 #UNK# I-positive
 on O
 your O
 #UNK# I-positive
 ! O
-#UNK# I-positive
+
 There O
 is O
 only O
@@ -4286,7 +4286,7 @@ a O
 lot O
 more O
 . O
-#UNK# I-positive
+
 food B-neutral
 was O
 fine O
@@ -4297,16 +4297,16 @@ some O
 #UNK# I-positive
 #UNK# I-positive
 . O
-#UNK# I-positive
+
 The B-neutral
 food B-neutral
 was O
 great O
 ! O
-#UNK# I-positive
+
 #UNK# I-positive
 and I-neutral
 friendly O
 service B-negative
 . O
-#UNK# I-positive
+
