@@ -15,6 +15,18 @@ Sentiment  recall: 0.3142
 Sentiment  F: 0.0995
 
 Pt3
+#Entity in gold data: 226
+#Entity in prediction: 160
+
+#Correct Entity : 102
+Entity  precision: 0.6375
+Entity  recall: 0.4513
+Entity  F: 0.5285
+
+#Correct Sentiment : 62
+Sentiment  precision: 0.3875
+Sentiment  recall: 0.2743
+Sentiment  F: 0.3212
 Pt4 
 
 CN
@@ -35,6 +47,18 @@ Sentiment  F: 0.0310
 
 
 Pt3
+#Entity in gold data: 362
+#Entity in prediction: 156
+
+#Correct Entity : 37
+Entity  precision: 0.2372
+Entity  recall: 0.1022
+Entity  F: 0.1429
+
+#Correct Sentiment : 28
+Sentiment  precision: 0.1795
+Sentiment  recall: 0.0773
+Sentiment  F: 0.1081
 Pt4
 
 SG
@@ -54,6 +78,19 @@ Sentiment  recall: 0.2279
 Sentiment  F: 0.0789
 
 Pt3
+#Entity in gold data: 1382
+#Entity in prediction: 711
+
+#Correct Entity : 22
+Entity  precision: 0.0309
+Entity  recall: 0.0159
+Entity  F: 0.0210
+
+#Correct Sentiment : 11
+Sentiment  precision: 0.0155
+Sentiment  recall: 0.0080
+Sentiment  F: 0.0105
+
 Pt4
 
 FR
@@ -73,4 +110,16 @@ Sentiment  recall: 0.3049
 Sentiment  F: 0.0991
 
 Pt3
+#Entity in gold data: 223
+#Entity in prediction: 163
+
+#Correct Entity : 110
+Entity  precision: 0.6748
+Entity  recall: 0.4933
+Entity  F: 0.5699
+
+#Correct Sentiment : 72
+Sentiment  precision: 0.4417
+Sentiment  recall: 0.3229
+Sentiment  F: 0.3731
 Pt4
