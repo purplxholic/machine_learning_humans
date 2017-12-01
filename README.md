@@ -3,9 +3,9 @@
 WHY IS MAX MARGINAL > VITERBI ?!  I DON'T KNOW 
 Whoever else who has access to this repo: it will be privatised when part 5 starts. :Y
 
-##EN
-Pt2 
+## EN
 ```
+Pt2 
 #Entity in gold data: 226
 #Entity in prediction: 1201
 
@@ -33,6 +33,20 @@ Sentiment  precision: 0.3875
 Sentiment  recall: 0.2743
 Sentiment  F: 0.3212
 
+Part 3 V2
+#Entity in gold data: 226
+#Entity in prediction: 162
+
+#Correct Entity : 104
+Entity  precision: 0.6420
+Entity  recall: 0.4602
+Entity  F: 0.5361
+
+#Correct Sentiment : 64
+Sentiment  precision: 0.3951
+Sentiment  recall: 0.2832
+Sentiment  F: 0.3299
+
 Pt4
 #Entity in gold data: 226
 #Entity in prediction: 175
@@ -48,7 +62,7 @@ Sentiment  recall: 0.3053
 Sentiment  F: 0.3441 
 ```
 
-##CN
+## CN
 ```
 Pt2
 #Entity in gold data: 362
@@ -64,7 +78,6 @@ Sentiment  precision: 0.0172
 Sentiment  recall: 0.1575
 Sentiment  F: 0.0310
 
-
 Pt3
 #Entity in gold data: 362
 #Entity in prediction: 156
@@ -78,6 +91,20 @@ Entity  F: 0.1429
 Sentiment  precision: 0.1795
 Sentiment  recall: 0.0773
 Sentiment  F: 0.1081
+
+Part 3 V2
+#Entity in gold data: 362
+#Entity in prediction: 158
+
+#Correct Entity : 64
+Entity  precision: 0.4051
+Entity  recall: 0.1768
+Entity  F: 0.2462
+
+#Correct Sentiment : 47
+Sentiment  precision: 0.2975
+Sentiment  recall: 0.1298
+Sentiment  F: 0.1808
 
 Pt4
 #Entity in gold data: 362
@@ -93,7 +120,7 @@ Sentiment  precision: 0.2513
 Sentiment  recall: 0.1326
 Sentiment  F: 0.1736
 ```
-##SG
+## SG
 ```
 Pt2
 #Entity in gold data: 1382
@@ -123,6 +150,20 @@ Sentiment  precision: 0.0155
 Sentiment  recall: 0.0080
 Sentiment  F: 0.0105
 
+Part 3 V2
+#Entity in gold data: 1382
+#Entity in prediction: 723
+
+#Correct Entity : 22
+Entity  precision: 0.0304
+Entity  recall: 0.0159
+Entity  F: 0.0209
+
+#Correct Sentiment : 11
+Sentiment  precision: 0.0152
+Sentiment  recall: 0.0080
+Sentiment  F: 0.0105
+
 Pt4
 #Entity in gold data: 1382
 #Entity in prediction: 778
@@ -137,7 +178,7 @@ Sentiment  precision: 0.0141
 Sentiment  recall: 0.0080
 Sentiment  F: 0.0102
 ```
-##FR
+## FR
 ```
 Pt2
 #Entity in gold data: 223
@@ -167,6 +208,19 @@ Sentiment  precision: 0.4417
 Sentiment  recall: 0.3229
 Sentiment  F: 0.3731
 
+Part 3 V2
+#Entity in gold data: 223
+#Entity in prediction: 166
+
+#Correct Entity : 112
+Entity  precision: 0.6747
+Entity  recall: 0.5022
+Entity  F: 0.5758
+
+#Correct Sentiment : 72
+Sentiment  precision: 0.4337
+Sentiment  recall: 0.3229
+Sentiment  F: 0.3702
 Pt4
 #Entity in gold data: 223
 #Entity in prediction: 173
