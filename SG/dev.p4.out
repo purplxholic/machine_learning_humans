@@ -105,7 +105,7 @@ show O
 Amy B-neutral
 , I-neutral
 #UNK# I-neutral
-, I-neutral
+, O
 #UNK# O
 ... O
 
@@ -178,7 +178,7 @@ not O
 about O
 Donald B-negative
 J I-negative
-. I-negative
+. O
 Trump I-negative
 ' O
 s O
@@ -199,7 +199,7 @@ you O
 have O
 a O
 Google B-positive
-#UNK# I-positive
+#UNK# O
 ? O
 #UNK# O
 #UNK# O
@@ -240,7 +240,7 @@ a O
 ? O
 
 So O
-World O
+World B-neutral
 #UNK# O
 #UNK# O
 had O
@@ -322,7 +322,7 @@ tell O
 #UNK# O
 Trump B-neutral
 Tower I-neutral
-#UNK# O
+#UNK# I-neutral
 #UNK# O
 #UNK# O
 #UNK# O
@@ -412,7 +412,7 @@ just O
 " O
 into O
 Google B-positive
-#UNK# I-positive
+#UNK# O
 ... O
 nothing O
 . O
@@ -552,14 +552,14 @@ this O
 #UNK# O
 #UNK# O
 #UNK# O
-National B-neutral
-#UNK# I-neutral
-#UNK# I-neutral
-#UNK# I-neutral
+National I-positive
+#UNK# O
+#UNK# O
+#UNK# O
 #UNK# I-neutral
 Premier I-neutral
 League I-neutral
-#UNK# O
+#UNK# I-neutral
 / O
 10 O
 #UNK# O
@@ -585,16 +585,16 @@ posted O
 a O
 photo O
 @ O
-#UNK# B-neutral
-World I-neutral
+#UNK# O
+World O
 : O
 Where O
 Art B-neutral
-#UNK# O
+#UNK# I-neutral
 #UNK# O
 #UNK# O
 
-#UNK# B-positive
+#UNK# O
 #UNK# I-positive
 Car I-positive
 #UNK# O
@@ -703,8 +703,8 @@ Toronto B-neutral
 
 Our O
 Blues B-neutral
-#UNK# I-neutral
-Chocolate I-neutral
+#UNK# O
+Chocolate B-positive
 #UNK# O
 goes O
 #UNK# O
@@ -744,7 +744,7 @@ R O
 God B-positive
 Bless O
 the O
-USA O
+USA B-neutral
 
 I'm O
 at O
@@ -891,12 +891,12 @@ a O
 #UNK# O
 #UNK# O
 in O
-Illinois B-positive
+Illinois I-neutral
 today O
 . O
 Who O
 needs O
-Disney O
+Disney B-neutral
 #UNK# O
 
 I'm O
@@ -993,7 +993,7 @@ Town I-neutral
 ( O
 loan O
 from O
-Brighton O
+Brighton B-neutral
 ) O
 
 #UNK# O
@@ -1231,7 +1231,7 @@ home O
 @ O
 West B-neutral
 Coast I-neutral
-#UNK# O
+#UNK# I-neutral
 in O
 Singapore B-neutral
 ) O
@@ -1271,7 +1271,7 @@ at O
 We're O
 #hiring O
 in O
-#UNK# O
+#UNK# B-neutral
 , O
 PA O
 ! O
@@ -1304,8 +1304,8 @@ tour O
 and O
 Chicago B-neutral
 #UNK# I-neutral
-#UNK# I-neutral
-, I-neutral
+#UNK# O
+, O
 and O
 see O
 you O
@@ -1382,7 +1382,7 @@ that O
 thinks O
 Bob B-positive
 Dylan I-positive
-#UNK# O
+#UNK# I-positive
 #UNK# O
 ? O
 
@@ -1438,7 +1438,7 @@ for O
 work O
 in O
 #UNK# B-neutral
-, I-neutral
+, O
 California I-neutral
 , I-neutral
 check O
@@ -1608,7 +1608,7 @@ it O
 Join O
 the O
 #UNK# O
-Canada B-neutral
+Canada B-positive
 team O
 ! O
 See O
@@ -1714,7 +1714,7 @@ his O
 way O
 . O
 
-@realDonaldTrump B-negative
+@realDonaldTrump O
 Trump I-negative
 you O
 suck O
@@ -1773,7 +1773,7 @@ they O
 also O
 #UNK# O
 #UNK# O
-#UNK# B-positive
+#UNK# I-positive
 + I-positive
 Care I-positive
 will O
@@ -1985,7 +1985,7 @@ bye O
 #UNK# O
 and O
 #UNK# O
-singapore B-neutral
+singapore O
 ... O
 ✌ O
 ✌ O
@@ -2043,7 +2043,7 @@ is O
 in O
 Cross B-neutral
 #UNK# I-neutral
-, I-neutral
+, O
 #UNK# O
 . O
 
@@ -2130,7 +2130,7 @@ a O
 new O
 album O
 iTunes B-neutral
-/ I-neutral
+/ O
 Amazon I-neutral
 / O
 #UNK# O
@@ -2311,8 +2311,8 @@ by O
 ) O
 #UNK# O
 @ O
-#UNK# O
-Gardens O
+#UNK# B-neutral
+Gardens I-neutral
 #UNK# O
 
 We O
@@ -2408,7 +2408,7 @@ I O
 the O
 #UNK# O
 David B-positive
-#UNK# I-positive
+#UNK# O
 version O
 . O
 #UNK# O
@@ -2562,12 +2562,12 @@ colleagues O
 #UNK# O
 and O
 #UNK# B-negative
-Smith I-negative
+Smith I-neutral
 at O
 #UNK# O
 #UNK# O
-#UNK# O
-Awards O
+#UNK# I-positive
+Awards I-positive
 . O
 … O
 #UNK# O
@@ -2739,7 +2739,7 @@ bro O
 #UNK# O
 #UNK# O
 #UNK# O
-John O
+John I-positive
 #UNK# O
 pay O
 #UNK# O
@@ -2765,7 +2765,7 @@ the O
 at O
 #UNK# O
 park B-neutral
-, I-neutral
+, O
 the O
 #UNK# O
 and O
@@ -2892,7 +2892,7 @@ watching O
 I'm O
 at O
 #UNK# O
-#UNK# B-neutral
+#UNK# O
 Club I-neutral
 #UNK# O
 
@@ -3026,7 +3026,7 @@ The O
 #UNK# O
 to O
 the O
-World O
+World B-neutral
 ( O
 #UNK# O
 #UNK# O
@@ -3080,7 +3080,7 @@ here O
 #UNK# O
 #Retail O
 #UNK# B-neutral
-, I-neutral
+, O
 KY I-neutral
 #Hiring O
 #CareerArc O
@@ -3094,7 +3094,7 @@ to O
 the O
 #UNK# O
 #UNK# O
-Awards O
+Awards I-positive
 in O
 Glasgow B-neutral
 on O
@@ -3199,7 +3199,7 @@ Stop I-neutral
 #UNK# I-neutral
 ( I-neutral
 Blk I-neutral
-#UNK# O
+#UNK# I-neutral
 ) O
 in O
 Singapore B-neutral
@@ -3454,7 +3454,7 @@ now O
 #UNK# O
 for O
 UK B-neutral
-, I-neutral
+, O
 i O
 #UNK# O
 to O
@@ -3594,7 +3594,7 @@ Club I-neutral
 on O
 #UNK# O
 chicken B-positive
-#UNK# I-positive
+#UNK# O
 and O
 fresh O
 #UNK# O
@@ -3606,7 +3606,7 @@ Coffee I-neutral
 in O
 Singapore B-neutral
 , I-neutral
-#UNK# O
+#UNK# I-neutral
 ) O
 #UNK# O
 
@@ -3655,7 +3655,7 @@ for O
 work O
 in O
 #Singapore B-neutral
-, I-neutral
+, O
 check O
 out O
 this O
@@ -3787,7 +3787,7 @@ very O
 lol O
 same O
 Mr B-positive
-#UNK# I-positive
+#UNK# O
 . O
 I O
 feel O
@@ -3822,8 +3822,8 @@ account I-negative
 called O
 ' O
 #UNK# O
-#UNK# O
-memes O
+#UNK# B-positive
+memes I-positive
 ' O
 
 I O
@@ -4037,7 +4037,7 @@ Johor I-neutral
 Bahru I-neutral
 , I-neutral
 Johor I-neutral
-) O
+) I-neutral
 #UNK# O
 
 I O
@@ -4058,7 +4058,7 @@ almost O
 #UNK# O
 #UNK# O
 Thanks O
-John O
+John B-positive
 . O
 
 I'm O
@@ -4075,7 +4075,7 @@ When O
 you O
 ask O
 for O
-sweet B-positive
+sweet O
 tea I-positive
 and O
 get O
@@ -4159,7 +4159,7 @@ fighting O
 #UNK# O
 on O
 some O
-UK O
+UK B-neutral
 #UNK# O
 #UNK# O
 in O
@@ -4221,7 +4221,7 @@ sleep O
 :) O
 ( O
 @ O
-Hotel B-neutral
+Hotel O
 #UNK# I-neutral
 - I-neutral
 Palace I-neutral
@@ -4390,7 +4390,7 @@ alone O
 
 . O
 #UNK# O
-#UNK# B-neutral
+#UNK# O
 World I-neutral
 #UNK# O
 trade O
@@ -4400,7 +4400,7 @@ just O
 with O
 #UNK# O
 white O
-EU O
+EU B-neutral
 . O
 #UNK# O
 #UNK# O
@@ -4478,13 +4478,13 @@ YOU O
 BACK O
 
 " O
-Putin B-negative
+Putin B-neutral
 , O
 the O
 guy O
 from O
 China B-neutral
-, I-neutral
+, O
 the O
 guy O
 from O
@@ -4726,9 +4726,9 @@ here O
 #UNK# O
 - O
 #UNK# O
-#UNK# O
-, O
-IL O
+#UNK# B-neutral
+, I-neutral
+IL I-neutral
 
 Missing O
 #UNK# O
@@ -4764,7 +4764,7 @@ you O
 to O
 #UNK# O
 the O
-Michigan B-positive
+Michigan B-neutral
 National I-positive
 #UNK# O
 . O
@@ -4819,7 +4819,7 @@ on O
 #UNK# O
 SB O
 at O
-#UNK# B-neutral
+#UNK# O
 Dr I-neutral
 , I-neutral
 stop O
@@ -4831,7 +4831,7 @@ to O
 #UNK# B-neutral
 121 I-neutral
 Sam B-neutral
-#UNK# O
+#UNK# I-neutral
 #UNK# O
 
 #UNK# O
@@ -4997,7 +4997,7 @@ closed O
 for O
 #UNK# O
 #UNK# O
-Parade O
+Parade I-neutral
 . O
 Please O
 plan O
@@ -5148,7 +5148,7 @@ to O
 #UNK# O
 someone O
 a O
-#UNK# O
+#UNK# B-negative
 prize O
 #UNK# O
 only O
@@ -5180,7 +5180,7 @@ what O
 was O
 left O
 of O
-Carolyn B-negative
+Carolyn B-neutral
 ' O
 s O
 music O
@@ -5201,7 +5201,7 @@ OT O
 #UNK# O
 Trump B-neutral
 Tower I-neutral
-#UNK# O
+#UNK# I-neutral
 #UNK# O
 #UNK# O
 #UNK# O
@@ -5292,7 +5292,7 @@ Bay I-neutral
 & I-neutral
 Country I-neutral
 Club I-neutral
-) O
+) I-neutral
 [ O
 pic O
 ] O
@@ -5706,7 +5706,7 @@ Netflix B-neutral
 
 I'm O
 at O
-#UNK# B-neutral
+#UNK# O
 Club I-neutral
 w O
 / O
@@ -5716,7 +5716,7 @@ w O
 " O
 " O
 #UNK# O
-TRUMP B-negative
+TRUMP B-positive
 #UNK# O
 
 Is O
@@ -5758,7 +5758,7 @@ fan O
 , O
 baby O
 Charlie B-neutral
-#UNK# O
+#UNK# I-neutral
 #UNK# O
 #UNK# O
 #UNK# O
@@ -5786,7 +5786,7 @@ and O
 #UNK# O
 at O
 #UNK# O
-#UNK# B-neutral
+#UNK# O
 Junction I-neutral
 — O
 #UNK# O
@@ -5881,7 +5881,7 @@ Business I-neutral
 Park I-neutral
 in O
 Singapore B-neutral
-, I-neutral
+, O
 SG O
 #UNK# O
 
@@ -5904,7 +5904,7 @@ Run O
 #UNK# O
 
 Operation B-neutral
-#UNK# O
+#UNK# I-neutral
 / O
 #UNK# O
 allowed O
@@ -6009,7 +6009,7 @@ sleep O
 on O
 #UNK# O
 
-#UNK# B-negative
+#UNK# O
 Putin I-negative
 becomes O
 a O
@@ -6036,7 +6036,7 @@ of O
 any O
 #UNK# O
 under O
-EU O
+EU B-neutral
 #UNK# O
 #UNK# O
 #UNK# O
@@ -6071,7 +6071,7 @@ of O
 the O
 new O
 Park B-neutral
-Life I-neutral
+Life I-positive
 and O
 the O
 #UNK# O
@@ -6275,7 +6275,7 @@ what O
 you O
 did O
 Mr B-positive
-#UNK# I-positive
+#UNK# O
 and O
 win O
 the O
@@ -6305,7 +6305,7 @@ nice O
 glass B-neutral
 of I-neutral
 Jackson I-neutral
-#UNK# O
+#UNK# I-neutral
 #UNK# O
 every O
 once O
@@ -6396,8 +6396,8 @@ from O
 #UNK# O
 #UNK# O
 #UNK# O
-The B-neutral
-Black I-neutral
+The O
+Black I-positive
 #UNK# O
 #UNK# O
 the O
@@ -6563,7 +6563,7 @@ Blk B-neutral
 Clementi I-neutral
 West I-neutral
 Street I-neutral
-2 O
+2 I-neutral
 in O
 Singapore B-neutral
 #UNK# O
@@ -6599,7 +6599,7 @@ via O
 the O
 #UNK# O
 News O
-Android B-neutral
+Android O
 #UNK# O
 
 At O
@@ -6737,7 +6737,7 @@ my O
 #UNK# O
 , O
 as O
-#UNK# O
+#UNK# B-neutral
 & O
 mask O
 . O
@@ -6896,7 +6896,7 @@ hat O
 in O
 his O
 NHL B-positive
-#UNK# I-positive
+#UNK# O
 .. O
 in O
 the O
@@ -7029,7 +7029,7 @@ More O
 State B-neutral
 Department I-neutral
 And O
-Hillary B-negative
+Hillary B-neutral
 #UNK# O
 | O
 #UNK# O
@@ -7082,7 +7082,7 @@ or O
 cry O
 forever O
 
-#UNK# B-negative
+#UNK# O
 trump I-negative
 lies O
 
@@ -7306,7 +7306,7 @@ Skudai B-neutral
 
 Justin B-positive
 Williams I-positive
-’ I-positive
+’ O
 reaction O
 once O
 he O
@@ -7382,7 +7382,7 @@ often O
 ... O
 ( O
 @ O
-The B-neutral
+The O
 #UNK# I-neutral
 #UNK# I-neutral
 Company I-neutral
@@ -7425,7 +7425,7 @@ radio O
 #UNK# O
 are O
 Dylan B-positive
-#UNK# I-positive
+#UNK# O
 today O
 . O
 It's O
@@ -7453,7 +7453,7 @@ a O
 friend O
 of O
 Tom B-positive
-#UNK# I-positive
+#UNK# O
 and O
 I O
 would O
@@ -7596,10 +7596,10 @@ now O
 I'm O
 at O
 Blk B-neutral
-#UNK# I-neutral
-Tampines I-neutral
-Street I-neutral
 #UNK# O
+Tampines B-neutral
+Street I-neutral
+#UNK# I-neutral
 in O
 Singapore B-neutral
 #UNK# O
@@ -7637,9 +7637,9 @@ or O
 music O
 shows O
 again O
-T O
-. O
-T O
+T B-positive
+. I-positive
+T I-positive
 
 #UNK# O
 Sorry O
@@ -7769,7 +7769,7 @@ to O
 work O
 in O
 #UNK# B-neutral
-, I-neutral
+, O
 NJ I-neutral
 ? O
 View O
@@ -7840,7 +7840,7 @@ in O
 Johor I-neutral
 , I-neutral
 Johor I-neutral
-#UNK# O
+#UNK# I-neutral
 ) O
 #UNK# O
 
@@ -7851,7 +7851,7 @@ save O
 #UNK# B-neutral
 County I-neutral
 Council I-neutral
-#UNK# O
+#UNK# I-neutral
 #UNK# O
 #Derbyshire O
 #UNK# O
@@ -7860,7 +7860,7 @@ I O
 #UNK# O
 my O
 Rob B-neutral
-#UNK# O
+#UNK# I-neutral
 shirt O
 #UNK# O
 to O
@@ -7946,7 +7946,7 @@ with O
 Whitney B-neutral
 at O
 Loka B-neutral
-#UNK# O
+#UNK# I-neutral
 ) O
 [ O
 pic O
@@ -8045,7 +8045,7 @@ is O
 but O
 
 Tom B-positive
-#UNK# I-positive
+#UNK# O
 and O
 #UNK# O
 #UNK# O
@@ -8245,8 +8245,8 @@ in O
 by O
 #UNK# B-neutral
 Taylor I-neutral
-#UNK# I-neutral
-, I-neutral
+#UNK# O
+, O
 President O
 of O
 the O
@@ -8428,7 +8428,7 @@ Matthews B-positive
 I'm O
 good O
 at O
-Twitter O
+Twitter B-positive
 . O
 
 I'm O
@@ -8581,7 +8581,7 @@ the O
 #UNK# O
 #UNK# O
 at O
-St O
+St B-neutral
 . O
 #UNK# O
 #UNK# O
@@ -8635,7 +8635,7 @@ Singapore B-neutral
 
 #UNK# O
 #UNK# O
-#UNK# B-negative
+#UNK# O
 Ryan I-negative
 , O
 you're O
@@ -8653,7 +8653,7 @@ I'm O
 at O
 Singapore B-neutral
 ITE I-neutral
-#UNK# O
+#UNK# I-neutral
 #UNK# O
 
 I O
@@ -8764,13 +8764,13 @@ follow O
 ! O
 
 #UNK# O
-#UNK# B-neutral
-51 I-neutral
-#UNK# I-neutral
+#UNK# O
+51 O
+#UNK# O
 #UNK# I-neutral
 Parade I-neutral
 Singapore I-neutral
-#UNK# O
+#UNK# I-neutral
 #UNK# O
 #UNK# O
 … O
@@ -8977,7 +8977,7 @@ p O
 #UNK# O
 of O
 Tommy B-positive
-’ I-positive
+’ O
 s O
 #UNK# O
 . O
@@ -9002,7 +9002,7 @@ do O
 the O
 Drake B-positive
 Birmingham I-positive
-#UNK# O
+#UNK# I-positive
 and O
 decent O
 seats O
@@ -9091,7 +9091,7 @@ an O
 candidate O
 tell O
 Lord B-positive
-#UNK# I-positive
+#UNK# O
 that O
 the O
 #UNK# O
@@ -9116,7 +9116,7 @@ to O
 look O
 through O
 my O
-Twitter O
+Twitter B-positive
 #UNK# O
 list O
 . O
@@ -9147,7 +9147,7 @@ trip O
 #UNK# O
 thank O
 you O
-John O
+John B-positive
 . O
 
 @donlemon O
@@ -9186,11 +9186,11 @@ Puteri B-neutral
 Harbour I-neutral
 #UNK# I-neutral
 #UNK# I-neutral
-in I-neutral
-#UNK# I-neutral
+in O
+#UNK# B-neutral
 , I-neutral
 Johor I-neutral
-#UNK# O
+#UNK# I-neutral
 #UNK# O
 
 #UNK# O
@@ -9248,7 +9248,7 @@ shop O
 on O
 #UNK# B-neutral
 Place I-neutral
-, I-neutral
+, O
 … O
 #UNK# O
 
@@ -9286,7 +9286,7 @@ the O
 bridge O
 The O
 #UNK# O
-Boys O
+Boys I-positive
 The O
 #UNK# O
 of O
@@ -9297,7 +9297,7 @@ I O
 think O
 just O
 won O
-Twitter O
+Twitter B-positive
 . O
 #UNK# O
 
@@ -9390,8 +9390,8 @@ hilarious O
 “ O
 Maine B-positive
 #UNK# I-positive
-’ I-positive
-t I-positive
+’ O
+t O
 #UNK# O
 anything O
 from O
@@ -9521,7 +9521,7 @@ super O
 #UNK# O
 about O
 Dylan B-positive
-#UNK# I-positive
+#UNK# O
 passing O
 . O
 This O
@@ -9731,8 +9731,8 @@ but O
 
 I'm O
 at O
-#UNK# B-neutral
-Castle I-neutral
+#UNK# B-positive
+Castle I-positive
 #UNK# O
 
 #UNK# O
@@ -9812,7 +9812,7 @@ food O
 Beer O
 and O
 Satay B-neutral
-, I-neutral
+, O
 baby O
 ! O
 @ O
@@ -10102,7 +10102,7 @@ u O
 
 Dear O
 Russia B-neutral
-, I-neutral
+, O
 I'm O
 literally O
 just O
@@ -10352,7 +10352,7 @@ cheap O
 , O
 as O
 " O
-John O
+John B-positive
 #UNK# O
 " O
 , O
@@ -10476,7 +10476,7 @@ Singapore B-neutral
 #UNK# O
 
 In O
-west O
+west B-neutral
 #UNK# O
 born O
 & O
@@ -10614,8 +10614,8 @@ of O
 through O
 UK B-neutral
 & I-neutral
-#UNK# I-neutral
-, I-neutral
+#UNK# O
+, O
 so O
 not O
 just O
@@ -10637,7 +10637,7 @@ photo O
 #UNK# O
 #UNK# O
 #UNK# O
-#UNK# B-neutral
+#UNK# I-neutral
 , I-neutral
 #UNK# I-neutral
 , I-neutral
@@ -10733,7 +10733,7 @@ Seattle B-neutral
 
 #UNK# B-positive
 Radio I-positive
-#UNK# O
+#UNK# I-positive
 #UNK# O
 #UNK# O
 to O
@@ -10806,9 +10806,9 @@ about O
 why O
 #UNK# O
 #UNK# O
-#UNK# O
-| O
-SC O
+#UNK# I-neutral
+| I-neutral
+SC I-neutral
 | O
 USA B-neutral
 . O
@@ -10835,7 +10835,7 @@ Holborn O
 #UNK# O
 , O
 Holborn B-neutral
-& I-neutral
+& O
 #UNK# I-neutral
 Bush I-neutral
 #UNK# O
@@ -10889,7 +10889,7 @@ love O
 #UNK# O
 #UNK# O
 from O
-EU O
+EU B-neutral
 #UNK# O
 re O
 #Brexit O
@@ -11108,8 +11108,8 @@ the O
 #UNK# O
 of O
 the O
-Christian O
-church O
+Christian B-neutral
+church I-neutral
 in O
 America B-neutral
 keeps O
@@ -11168,7 +11168,7 @@ of O
 #UNK# B-neutral
 , I-neutral
 TX I-neutral
-#UNK# O
+#UNK# I-neutral
 #UNK# O
 #UNK# O
 #UNK# O
@@ -11208,7 +11208,7 @@ ever O
 popular O
 Combat B-positive
 brand I-positive
-#UNK# O
+#UNK# I-positive
 #UNK# O
 #UNK# O
 #UNK# O
@@ -11271,7 +11271,7 @@ game O
 for O
 Auston B-positive
 Matthews I-positive
-& I-positive
+& O
 he O
 already O
 has O
@@ -11438,7 +11438,7 @@ Fall O
 in O
 Love O
 with O
-Bay O
+Bay I-positive
 #UNK# O
 #UNK# O
 #UNK# O
@@ -11631,7 +11631,7 @@ view O
 View O
 on O
 the O
-EU O
+EU B-neutral
 #UNK# O
 #UNK# O
 on O
@@ -11736,9 +11736,9 @@ Amy B-neutral
 of O
 #UNK# O
 " O
-#UNK# B-neutral
-2016 I-neutral
-L I-neutral
+#UNK# O
+2016 O
+L B-neutral
 . I-neutral
 T I-neutral
 . O
@@ -11778,14 +11778,14 @@ off O
 #UNK# O
 #UNK# O
 Russia B-neutral
-#UNK# I-neutral
+#UNK# O
 New I-neutral
 York I-neutral
-#UNK# I-neutral
-#UNK# I-neutral
-#UNK# I-neutral
-Paris I-neutral
 #UNK# O
+#UNK# O
+#UNK# I-positive
+Paris I-positive
+#UNK# I-positive
 / O
 5 O
 #UNK# O
@@ -11834,7 +11834,7 @@ plans O
 to O
 release O
 an O
-NHL B-positive
+NHL B-neutral
 app O
 for O
 Samsung B-neutral
@@ -11854,7 +11854,7 @@ it O
 ( O
 @ O
 Johnny B-neutral
-#UNK# O
+#UNK# I-neutral
 in O
 #UNK# O
 , O
@@ -12017,7 +12017,7 @@ at O
 #UNK# O
 #UNK# O
 #UNK# O
-#UNK# B-neutral
+#UNK# I-neutral
 Corner I-neutral
 in I-neutral
 Johor I-neutral
@@ -12191,7 +12191,7 @@ while O
 #UNK# O
 plays O
 Molly B-positive
-#UNK# I-positive
+#UNK# O
 and O
 give O
 #UNK# O
@@ -12256,7 +12256,7 @@ Church B-neutral
 of I-neutral
 St I-neutral
 . O
-Anthony B-positive
+Anthony B-neutral
 ( O
 of O
 #UNK# O
@@ -12302,13 +12302,13 @@ at O
 #UNK# B-neutral
 Grill I-neutral
 & I-neutral
-#UNK# I-neutral
-in I-neutral
-Johor I-neutral
+#UNK# O
+in O
+Johor B-neutral
 Bahru I-neutral
 , I-neutral
 Johor I-neutral
-#UNK# O
+#UNK# I-neutral
 #UNK# O
 
 #UNK# O
@@ -12320,15 +12320,15 @@ CNN B-negative
 for O
 their O
 full O
-#UNK# O
-ha O
-ha O
-ha O
+#UNK# B-neutral
+ha I-neutral
+ha I-neutral
+ha I-neutral
 
 How O
 many O
 NFL B-neutral
-games I-neutral
+games O
 has O
 Jim B-neutral
 #UNK# O
@@ -12527,7 +12527,7 @@ a O
 It O
 was O
 a O
-Blue O
+Blue B-neutral
 #UNK# O
 and O
 I O
@@ -12566,9 +12566,9 @@ at O
 Bus B-neutral
 Stop I-neutral
 #UNK# I-neutral
-( I-neutral
-#UNK# I-neutral
-Chinese I-neutral
+( O
+#UNK# O
+Chinese O
 #UNK# O
 ) O
 in O
@@ -12686,7 +12686,7 @@ night O
 ! O
 U O
 did O
-Miss O
+Miss B-positive
 #UNK# O
 #UNK# O
 proud O
@@ -12798,7 +12798,7 @@ more O
 photos O
 @ O
 ' O
-#UNK# B-neutral
+#UNK# O
 World I-neutral
 of O
 Photography O
@@ -13167,7 +13167,7 @@ in O
 #UNK# B-neutral
 , I-neutral
 IN I-neutral
-, I-neutral
+, O
 check O
 out O
 this O
@@ -13239,7 +13239,7 @@ Singapore B-neutral
 goals O
 for O
 Austin B-positive
-#UNK# I-positive
+#UNK# O
 #UNK# O
 #UNK# O
 
@@ -13270,7 +13270,7 @@ the O
 at O
 Newcastle B-neutral
 #UNK# I-neutral
-, I-neutral
+, O
 but O
 several O
 times O
@@ -13369,7 +13369,7 @@ this O
 shit O
 
 Justin B-positive
-#UNK# I-positive
+#UNK# O
 : O
 “ O
 Very O
@@ -13388,7 +13388,7 @@ of O
 " O
 Saw O
 Jon B-positive
-& I-positive
+& O
 the O
 other O
 guy O
@@ -13486,8 +13486,8 @@ I'm O
 at O
 #UNK# O
 Queen B-neutral
-in I-neutral
-#UNK# I-neutral
+in O
+#UNK# B-neutral
 , I-neutral
 OR I-neutral
 #UNK# O
@@ -13566,8 +13566,8 @@ think O
 of O
 downtown B-neutral
 St I-neutral
-. I-neutral
-John I-neutral
+. O
+John B-positive
 ' O
 s O
 , O
@@ -13617,8 +13617,8 @@ w O
 
 That O
 new O
-#UNK# O
-T O
+#UNK# B-positive
+T I-positive
 
 This O
 #job O
@@ -13646,7 +13646,7 @@ _ O
 @ O
 Shaw B-neutral
 Theatres I-neutral
-#UNK# O
+#UNK# I-neutral
 #UNK# O
 
 I O
@@ -13693,7 +13693,7 @@ San B-neutral
 Francisco I-neutral
 International I-neutral
 Airport I-neutral
-( O
+( I-neutral
 #UNK# O
 ) O
 #UNK# O
@@ -13946,14 +13946,14 @@ your O
 #UNK# O
 #UNK# O
 @ O
-#UNK# B-neutral
-Museum I-neutral
+#UNK# B-positive
+Museum I-positive
 #UNK# O
 
 I'm O
 at O
 Dhoby B-neutral
-#UNK# O
+#UNK# I-neutral
 in O
 Singapore B-neutral
 #UNK# O
@@ -14444,9 +14444,9 @@ is O
 she O
 ? O
 
-#UNK# B-neutral
-of I-neutral
-United I-neutral
+#UNK# O
+of O
+United B-neutral
 Premier I-neutral
 League I-neutral
 #UNK# O
@@ -14519,11 +14519,11 @@ apply O
 #UNK# O
 needed O
 in O
-#UNK# B-neutral
-, I-neutral
+#UNK# O
+, O
 #UNK# I-neutral
 , I-neutral
-and I-neutral
+and O
 North I-neutral
 #UNK# I-neutral
 Beach I-neutral
@@ -14537,9 +14537,9 @@ I'm O
 at O
 #UNK# O
 #UNK# O
-#UNK# B-neutral
+#UNK# I-neutral
 Station I-neutral
-( O
+( I-neutral
 #UNK# O
 ) O
 in O
@@ -14595,7 +14595,7 @@ Johor I-neutral
 Bahru I-neutral
 , I-neutral
 Johor I-neutral
-) O
+) I-neutral
 #UNK# O
 
 Thanks O
@@ -14833,7 +14833,7 @@ to O
 see O
 the O
 #UNK# O
-Justin B-neutral
+Justin B-positive
 #UNK# O
 has O
 been O
@@ -14985,7 +14985,7 @@ best O
 I O
 love O
 Alex B-positive
-#UNK# I-positive
+#UNK# O
 so O
 much O
 . O
@@ -15067,7 +15067,7 @@ this O
 Malaysia B-neutral
 vs O
 China B-positive
-#UNK# I-positive
+#UNK# O
 #UNK# O
 is O
 so O
@@ -15197,7 +15197,7 @@ at O
 #UNK# B-neutral
 MRT I-neutral
 Station I-neutral
-( O
+( I-neutral
 #UNK# O
 ) O
 - O
@@ -15211,7 +15211,7 @@ Sorry O
 . O
 Trump B-negative
 got O
-Uncle B-neutral
+Uncle O
 John I-neutral
 too O
 , O
@@ -15261,7 +15261,7 @@ now O
 ? O
 " O
 - O
-Simon O
+Simon B-neutral
 #UNK# O
 
 Headlines O
@@ -15373,7 +15373,7 @@ M I-positive
 in O
 Johor B-neutral
 Bahru I-neutral
-) O
+) I-neutral
 #UNK# O
 
 I O
@@ -15426,7 +15426,7 @@ team O
 #Job O
 #Retail O
 #UNK# B-neutral
-, I-neutral
+, O
 KY I-neutral
 #Jobs O
 #CareerArc O
@@ -15572,7 +15572,7 @@ game O
 & O
 lost O
 to O
-Joe B-negative
+Joe B-positive
 #UNK# O
 . O
 Pretty O
@@ -15759,7 +15759,7 @@ in O
 Chicago B-neutral
 , I-neutral
 IL I-neutral
-) O
+) I-neutral
 #UNK# O
 
 #UNK# O
@@ -15835,7 +15835,7 @@ Marmite B-negative
 #UNK# O
 / O
 Ben B-positive
-& I-positive
+& O
 #UNK# O
 … O
 #UNK# O
@@ -16073,7 +16073,7 @@ still O
 ( O
 Tesco B-neutral
 ) I-neutral
-& I-neutral
+& O
 this O
 is O
 #UNK# O
@@ -16207,7 +16207,7 @@ up O
 but O
 u O
 #UNK# O
-mac O
+mac B-positive
 #UNK# O
 alr O
 
@@ -16225,7 +16225,7 @@ UP O
 WITH O
 THE O
 #UNK# O
-CLINTON B-negative
+CLINTON I-positive
 #UNK# O
 ABOUT O
 #UNK# O
@@ -16347,7 +16347,7 @@ ME O
 Check O
 out O
 Ms O
-Leeds B-positive
+Leeds O
 body O
 language O
 , O
@@ -16706,7 +16706,7 @@ https://t.co/gG2Rtd19vN O
 
 #UNK# O
 #UNK# O
-#UNK# B-neutral
+#UNK# I-neutral
 County I-neutral
 #UNK# O
 #UNK# O

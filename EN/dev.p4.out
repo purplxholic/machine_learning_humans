@@ -48,7 +48,7 @@ joint O
 in O
 Seattle O
 
-Food B-neutral
+Food B-positive
 #UNK# O
 , O
 its O
@@ -141,7 +141,7 @@ seat O
 at O
 the O
 sushi B-positive
-bar I-positive
+bar O
 . O
 
 The O
@@ -204,7 +204,7 @@ a O
 variety O
 of O
 the O
-beer O
+beer B-positive
 ( O
 cold O
 and O
@@ -294,7 +294,7 @@ table O
 
 We O
 #UNK# B-positive
-with I-positive
+with O
 #UNK# I-positive
 chocolate I-positive
 cake I-positive
@@ -416,7 +416,7 @@ we O
 were O
 looking O
 for O
-regular O
+regular B-positive
 #UNK# O
 and O
 some O
@@ -481,14 +481,14 @@ a O
 cute O
 interior O
 decor B-positive
-and I-positive
-#UNK# I-positive
-city I-positive
+and O
+#UNK# O
+city O
 prices O
 . O
 
 The O
-location O
+location B-positive
 and O
 ambience B-positive
 is O
@@ -717,8 +717,8 @@ you O
 off O
 – O
 
-#UNK# B-positive
-#UNK# I-positive
+#UNK# O
+#UNK# O
 Restaurant I-positive
 in O
 Manhattan O
@@ -765,8 +765,8 @@ your O
 Go O
 to O
 japanese B-positive
-sushi I-positive
-place I-positive
+sushi O
+place O
 or O
 #UNK# O
 #UNK# O
@@ -829,7 +829,7 @@ was O
 #UNK# O
 to O
 this O
-place O
+place B-positive
 and O
 this O
 is O
@@ -1195,13 +1195,13 @@ favorite O
 modern B-positive
 Japanese I-positive
 #UNK# I-positive
-( I-positive
+( O
 that O
 #UNK# O
 ’ O
 t O
 serve O
-sushi O
+sushi B-positive
 ) O
 , O
 and O
@@ -1416,8 +1416,8 @@ served O
 with O
 either O
 a O
-#UNK# B-positive
-sauce I-positive
+#UNK# O
+sauce O
 or O
 #UNK# O
 wine B-positive
@@ -1528,7 +1528,7 @@ delicious O
 and O
 sweet O
 #UNK# B-positive
-bread I-positive
+bread O
 . O
 
 #UNK# O
@@ -1545,8 +1545,8 @@ with O
 a O
 plate O
 of O
-#UNK# B-positive
-#UNK# I-positive
+#UNK# O
+#UNK# O
 ( I-positive
 #UNK# I-positive
 sauce I-positive
@@ -1610,7 +1610,7 @@ helpful O
 in O
 #UNK# O
 us O
-drinks O
+drinks B-positive
 and O
 #UNK# O
 us O
@@ -1626,7 +1626,7 @@ we O
 #UNK# O
 nothing O
 about O
-Indian B-positive
+Indian O
 food I-positive
 . O
 
@@ -1893,15 +1893,15 @@ us O
 . O
 
 The O
-#UNK# B-positive
-#UNK# I-positive
+#UNK# O
+#UNK# O
 #UNK# I-positive
 ( I-positive
 with I-positive
 #UNK# I-positive
 / I-positive
 #UNK# I-positive
-#UNK# I-positive
+#UNK# O
 glasses O
 ) O
 will O
@@ -1948,7 +1948,7 @@ and O
 like O
 pork B-negative
 belly I-negative
-#UNK# I-negative
+#UNK# O
 . O
 
 It O
@@ -2024,7 +2024,7 @@ close O
 by O
 like O
 #UNK# O
-Cafe O
+Cafe B-positive
 and O
 #UNK# O
 #UNK# O
@@ -2152,7 +2152,7 @@ in O
 ! O
 
 The O
-bathroom B-negative
+bathroom O
 itself O
 is O
 very O
@@ -2187,7 +2187,7 @@ the O
 or O
 #UNK# O
 charming O
-location O
+location B-positive
 #UNK# O
 the O
 #UNK# O
@@ -2215,10 +2215,10 @@ The O
 pizza B-positive
 was O
 slightly O
-#UNK# B-positive
-of I-positive
-#UNK# I-positive
-#UNK# I-positive
+#UNK# O
+of O
+#UNK# O
+#UNK# O
 pizza I-positive
 which O
 #UNK# O
@@ -2331,7 +2331,7 @@ This O
 is O
 a O
 wonderful O
-place O
+place B-positive
 on O
 all O
 #UNK# O
@@ -2415,8 +2415,8 @@ real O
 
 Love O
 #UNK# O
-#UNK# O
-La O
+#UNK# I-positive
+La I-positive
 
 The O
 only O
@@ -2783,7 +2783,7 @@ were O
 the O
 #UNK# B-positive
 pasta I-positive
-#UNK# I-positive
+#UNK# O
 . O
 
 #UNK# O
@@ -2821,15 +2821,15 @@ for O
 the O
 #UNK# O
 was O
-#UNK# B-negative
+#UNK# O
 sauce I-negative
-and I-negative
-water I-negative
+and O
+water O
 . O
 
 #UNK# O
 THE O
-PLACE B-positive
+PLACE O
 
 It O
 was O
@@ -3041,7 +3041,7 @@ price O
 just O
 chicken B-positive
 #UNK# I-positive
-#UNK# I-positive
+#UNK# O
 - O
 no O
 bread O
@@ -3122,7 +3122,7 @@ to O
 any O
 indian B-positive
 #UNK# I-positive
-#UNK# I-positive
+#UNK# O
 by O
 . O
 
@@ -3254,7 +3254,7 @@ to O
 this O
 #UNK# O
 #UNK# O
-spot B-positive
+spot I-positive
 , O
 once O
 you O
@@ -3421,7 +3421,7 @@ from O
 #UNK# O
 and O
 this O
-place O
+place B-positive
 #UNK# O
 the O
 #UNK# O
@@ -3632,7 +3632,7 @@ best O
 Chinese B-positive
 style I-positive
 #UNK# I-positive
-#UNK# I-positive
+#UNK# O
 in O
 the O
 city O
@@ -3799,9 +3799,9 @@ at O
 
 – O
 Great O
-#UNK# B-positive
-#UNK# I-positive
-#UNK# I-positive
+#UNK# O
+#UNK# O
+#UNK# O
 spot I-positive
 . O
 
@@ -3930,12 +3930,12 @@ meal B-positive
 with O
 the O
 #UNK# O
-dessert B-negative
+dessert I-positive
 of O
 a O
 #UNK# O
 and O
-chocolate O
+chocolate B-positive
 #UNK# O
 ... O
 yummy O
@@ -3983,7 +3983,7 @@ my O
 of O
 a O
 pizza B-positive
-place I-positive
+place O
 to O
 #UNK# O
 #UNK# O
@@ -4047,7 +4047,7 @@ is O
 the O
 kind O
 of O
-place O
+place B-positive
 #UNK# O
 like O
 to O
@@ -4093,7 +4093,7 @@ was O
 spectacular O
 as O
 the O
-waiter B-negative
+waiter B-positive
 #UNK# O
 everything O
 about O
@@ -4110,8 +4110,8 @@ amazing O
 guests O
 enjoyed O
 pizza B-positive
-, I-positive
-#UNK# I-positive
+, O
+#UNK# O
 #UNK# I-positive
 #UNK# I-positive
 salad I-positive
@@ -4211,7 +4211,7 @@ menu O
 ingredients B-positive
 , O
 #UNK# O
-fish B-positive
+fish I-positive
 , O
 #UNK# O
 rice O
@@ -4271,7 +4271,7 @@ There O
 is O
 only O
 one O
-place O
+place B-positive
 on O
 the O
 east O

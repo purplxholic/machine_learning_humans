@@ -1,63 +1,238 @@
 # machine_learning_humans
 
-how viterbi works:
-'''
-    huge_transition = {(START,O):0.,(START,B-postive):0.,...} 
-    huge_emission = {(WORD,TAG):0...,} : emission is TAG -> WORD
-    td = ['Hello','Bob','#UNK#']
-    #forward 
-    tags = ['O','B-postive','B-negative','B-neutral','I-positive','I-negative','I-neutral']
-    
-    v = for tag in tags 
-    where k = 1,...,n 
-    recursive case:
-    
-    find all the values going towards (k,v)
-    
-    eg for node y2 for word "WE"
-    
-    calculate all the pi values of possible combinations of states 
-    eg O -> B+ for the word "WE", O-> O for the word "WE", O-> B- for the word "WE", etc 
-    for k in range(1,len(ONE SENTENCE)): TODO: do some check to seperate STOP,START sequence 
-        eg y2 
-        for v in tags:
-            #in each y2's states 
-            for u in tags:
-                #test y2 state against all of y1's states 
-                if emission[("WE",v)] * transition[(u,v)] are not in the dicts:
-                    emission[("WE",v)] = 0 , transition[(u,v)]=0 <- whichever 
+WHY IS MAX MARGINAL > VITERBI ?!  I DON'T KNOW 
+Whoever else who has access to this repo: it will be privatised when part 5 starts. :Y
 
-                one_pi = all pi(k-1,v) * emission[("WE",v)] * transition[(u,v)]
-                #eg y2 = "O", y1 = "B-postiive", y2 = "O", y1 = "B-neutral"  , ETC 
-                temp pi(k,v)[u] = one_pi <- insert all values
-                #eg y2 = "O", y1 = "B-postiive" is inserted as "B-postiive" : 0.03 
+## EN
+```
+Pt2 
+#Entity in gold data: 226
+#Entity in prediction: 1201
 
-            max_pi_k_v[v] = max(temp pi(k,v)) <- use the weird max from dictionary fucntion to select the best score 
-            #eg for v = "O" , found that pi is max at 0.5 for u="I-neutral" among the different u for y2
-            #register as "O" : 0.5 (so found one score for one v)
-            
-        since we have finished finding the max pi(k,v) for y2, add to the dict all pi(k,v)
-        all pi(k,v)[k] = max_pi_k_v
-        
+#Correct Entity : 165
+Entity  precision: 0.1374
+Entity  recall: 0.7301
+Entity  F: 0.2313
 
-    temp pi(k,v) dictionary =
-    {'B-POSITIVE':0.1,
-     'B-NEGATIVE':0.2,
-     ...
-    }
-    max_pi_k_v = 
-    {'O':0.5,
-    'B-positive':0.9,
-    ...}
-    
-    
-    create dictionary all pi(k,v)
-    = {1:
-        {
-        'B-POSITIVE':0.1,
-        'B-NEGATIVE':0.2,
-        ...}
-        
-        }
-    where the key is k/current node value  
-    '''
+#Correct Sentiment : 71
+Sentiment  precision: 0.0591
+Sentiment  recall: 0.3142
+Sentiment  F: 0.0995
+
+Pt3
+#Entity in gold data: 226
+#Entity in prediction: 160
+
+#Correct Entity : 102
+Entity  precision: 0.6375
+Entity  recall: 0.4513
+Entity  F: 0.5285
+
+#Correct Sentiment : 62
+Sentiment  precision: 0.3875
+Sentiment  recall: 0.2743
+Sentiment  F: 0.3212
+
+Part 3 V2
+#Entity in gold data: 226
+#Entity in prediction: 162
+
+#Correct Entity : 104
+Entity  precision: 0.6420
+Entity  recall: 0.4602
+Entity  F: 0.5361
+
+#Correct Sentiment : 64
+Sentiment  precision: 0.3951
+Sentiment  recall: 0.2832
+Sentiment  F: 0.3299
+
+Pt4
+#Entity in gold data: 226
+#Entity in prediction: 175
+
+#Correct Entity : 107
+Entity  precision: 0.6114
+Entity  recall: 0.4735
+Entity  F: 0.5337
+
+#Correct Sentiment : 69
+Sentiment  precision: 0.3943
+Sentiment  recall: 0.3053
+Sentiment  F: 0.3441 
+```
+
+## CN
+```
+Pt2
+#Entity in gold data: 362
+#Entity in prediction: 3318
+
+#Correct Entity : 183
+Entity  precision: 0.0552
+Entity  recall: 0.5055
+Entity  F: 0.0995
+
+#Correct Sentiment : 57
+Sentiment  precision: 0.0172
+Sentiment  recall: 0.1575
+Sentiment  F: 0.0310
+
+Pt3
+#Entity in gold data: 362
+#Entity in prediction: 156
+
+#Correct Entity : 37
+Entity  precision: 0.2372
+Entity  recall: 0.1022
+Entity  F: 0.1429
+
+#Correct Sentiment : 28
+Sentiment  precision: 0.1795
+Sentiment  recall: 0.0773
+Sentiment  F: 0.1081
+
+Part 3 V2
+#Entity in gold data: 362
+#Entity in prediction: 158
+
+#Correct Entity : 64
+Entity  precision: 0.4051
+Entity  recall: 0.1768
+Entity  F: 0.2462
+
+#Correct Sentiment : 47
+Sentiment  precision: 0.2975
+Sentiment  recall: 0.1298
+Sentiment  F: 0.1808
+
+Pt4
+#Entity in gold data: 362
+#Entity in prediction: 191
+
+#Correct Entity : 68
+Entity  precision: 0.3560
+Entity  recall: 0.1878
+Entity  F: 0.2459
+
+#Correct Sentiment : 48
+Sentiment  precision: 0.2513
+Sentiment  recall: 0.1326
+Sentiment  F: 0.1736
+```
+## SG
+```
+Pt2
+#Entity in gold data: 1382
+#Entity in prediction: 6599
+
+#Correct Entity : 794
+Entity  precision: 0.1203
+Entity  recall: 0.5745
+Entity  F: 0.1990
+
+#Correct Sentiment : 315
+Sentiment  precision: 0.0477
+Sentiment  recall: 0.2279
+Sentiment  F: 0.0789
+
+Pt3
+#Entity in gold data: 1382
+#Entity in prediction: 711
+
+#Correct Entity : 22
+Entity  precision: 0.0309
+Entity  recall: 0.0159
+Entity  F: 0.0210
+
+#Correct Sentiment : 11
+Sentiment  precision: 0.0155
+Sentiment  recall: 0.0080
+Sentiment  F: 0.0105
+
+Part 3 V2
+#Entity in gold data: 1382
+#Entity in prediction: 723
+
+#Correct Entity : 22
+Entity  precision: 0.0304
+Entity  recall: 0.0159
+Entity  F: 0.0209
+
+#Correct Sentiment : 11
+Sentiment  precision: 0.0152
+Sentiment  recall: 0.0080
+Sentiment  F: 0.0105
+
+Pt4
+#Entity in gold data: 1382
+#Entity in prediction: 778
+
+#Correct Entity : 23
+Entity  precision: 0.0296
+Entity  recall: 0.0166
+Entity  F: 0.0213
+
+#Correct Sentiment : 11
+Sentiment  precision: 0.0141
+Sentiment  recall: 0.0080
+Sentiment  F: 0.0102
+```
+## FR
+```
+Pt2
+#Entity in gold data: 223
+#Entity in prediction: 1149
+
+#Correct Entity : 182
+Entity  precision: 0.1584
+Entity  recall: 0.8161
+Entity  F: 0.2653
+
+#Correct Sentiment : 68
+Sentiment  precision: 0.0592
+Sentiment  recall: 0.3049
+Sentiment  F: 0.0991
+
+Pt3
+#Entity in gold data: 223
+#Entity in prediction: 163
+
+#Correct Entity : 110
+Entity  precision: 0.6748
+Entity  recall: 0.4933
+Entity  F: 0.5699
+
+#Correct Sentiment : 72
+Sentiment  precision: 0.4417
+Sentiment  recall: 0.3229
+Sentiment  F: 0.3731
+
+Part 3 V2
+#Entity in gold data: 223
+#Entity in prediction: 166
+
+#Correct Entity : 112
+Entity  precision: 0.6747
+Entity  recall: 0.5022
+Entity  F: 0.5758
+
+#Correct Sentiment : 72
+Sentiment  precision: 0.4337
+Sentiment  recall: 0.3229
+Sentiment  F: 0.3702
+Pt4
+#Entity in gold data: 223
+#Entity in prediction: 173
+
+#Correct Entity : 113
+Entity  precision: 0.6532
+Entity  recall: 0.5067
+Entity  F: 0.5707
+
+#Correct Sentiment : 73
+Sentiment  precision: 0.4220
+Sentiment  recall: 0.3274
+Sentiment  F: 0.3687
+
+```

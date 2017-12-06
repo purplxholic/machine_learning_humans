@@ -19,7 +19,7 @@
 #UNK# O
 #UNK# O
 
-# O
+# B-positive
 #UNK# O
 #UNK# O
 # O
@@ -55,8 +55,8 @@
 
 # B-positive
 #UNK# I-positive
-#UNK# I-positive
-- I-positive
+#UNK# I-neutral
+- O
 #UNK# O
 #UNK# O
 ## O
@@ -439,8 +439,8 @@ ali O
 。 O
 
 【 O
-大众 O
-#UNK# O
+大众 B-neutral
+#UNK# I-neutral
 #UNK# O
 #UNK# O
 图 O
@@ -501,8 +501,8 @@ ali O
 #UNK# O
 #UNK# O
 的 O
-#UNK# O
-W O
+#UNK# B-positive
+W I-positive
 ? O
 #UNK# O
 #UNK# O
@@ -580,7 +580,7 @@ cn O
 #UNK# O
 
 #UNK# O
-16 B-neutral
+16 O
 秋冬 I-neutral
 #UNK# I-neutral
 款 I-neutral
@@ -879,8 +879,8 @@ rights O
 看 O
 细水长流 O
 … O
-《 O
-红豆 O
+《 B-positive
+红豆 I-positive
 》 O
 
 # B-positive
@@ -892,7 +892,7 @@ rights O
 # O
 我 O
 觉得 O
-土豪 B-positive
+土豪 O
 闺蜜 I-positive
 绝对 O
 是 O
@@ -1178,8 +1178,8 @@ lt O
 #UNK# B-neutral
 的 I-neutral
 微 I-neutral
-#UNK# I-neutral
-公司 I-neutral
+#UNK# O
+公司 O
 : O
 中国 O
 - O
@@ -1353,7 +1353,7 @@ lt O
 丝带 O
 ” O
 作为 O
-全球 B-positive
+全球 O
 乳腺癌 I-positive
 #UNK# I-positive
 运动 I-positive
@@ -1442,8 +1442,8 @@ lt O
 
 # B-positive
 #UNK# I-positive
-#UNK# I-positive
-- I-positive
+#UNK# I-neutral
+- O
 #UNK# O
 #UNK# O
 ## O
@@ -1695,7 +1695,7 @@ TFBOYS I-positive
 良 O
 。 O
 
-# O
+# B-neutral
 爱上 O
 宜昌 O
 追梦 O
@@ -1826,7 +1826,7 @@ IP O
 色 O
 ] O
 
-#UNK# O
+#UNK# B-neutral
 #UNK# O
 #UNK# O
 #UNK# O
@@ -2102,7 +2102,7 @@ QQ O
 极了 O
 。 O
 
-# O
+# B-positive
 #UNK# O
 路上 O
 #UNK# O
@@ -2394,15 +2394,15 @@ xkl O
 。 O
 
 分享 O
-LAY O
+LAY B-positive
 的 O
 歌曲 O
 《 O
-what B-positive
-U I-positive
-need I-positive
-? I-positive
-》 I-positive
+what B-neutral
+U I-neutral
+need I-neutral
+? I-neutral
+》 O
 #UNK# O
 
 2016 O
@@ -2673,7 +2673,7 @@ wuli O
 气 O
 #UNK# O
 
-#UNK# O
+#UNK# B-neutral
 #UNK# O
 #UNK# O
 #UNK# O
@@ -2785,7 +2785,7 @@ http://t.cn/RcSYU1q O
 #UNK# B-positive
 大峡谷 I-positive
 #UNK# I-positive
-】 I-positive
+】 O
 #UNK# I-positive
 大峡谷 I-positive
 #UNK# O
@@ -3009,7 +3009,7 @@ G I-positive
 的 O
 。 O
 
-# O
+# B-positive
 #UNK# O
 #UNK# O
 # O
@@ -3307,8 +3307,8 @@ cry O
 #UNK# O
 #UNK# O
 生日快乐 O
-## O
-王源 O
+## B-positive
+王源 I-positive
 #UNK# O
 #UNK# O
 爵迹 B-neutral
@@ -3522,7 +3522,7 @@ LED O
 #UNK# O
 。 O
 
-# O
+# B-positive
 #UNK# O
 经济 O
 # O
@@ -3536,8 +3536,8 @@ LED O
 开发区 I-positive
 #UNK# I-positive
 #UNK# I-positive
-#UNK# I-positive
-发展 I-positive
+#UNK# O
+发展 O
 】 O
 从 O
 南通 B-positive
@@ -3562,7 +3562,7 @@ LED O
 开发区 I-positive
 的 I-positive
 #UNK# I-positive
-科技 I-positive
+科技 O
 ， O
 #UNK# O
 、 O
@@ -4021,8 +4021,8 @@ http://t.cn/RqsYJde O
 
 # B-neutral
 一 I-neutral
-#UNK# I-neutral
-#UNK# I-neutral
+#UNK# O
+#UNK# O
 微信 B-neutral
 #UNK# O
 2 O
@@ -4159,10 +4159,10 @@ http://t.cn/RqsYJde O
 #UNK# O
 
 #UNK# B-neutral
-#UNK# I-neutral
-#UNK# I-neutral
-#UNK# I-neutral
-哥 I-neutral
+#UNK# O
+#UNK# O
+#UNK# O
+哥 O
 生日快乐 O
 ！ O
 #UNK# O
@@ -4318,10 +4318,10 @@ TFBOYS I-positive
 王俊凯 I-positive
 已经 O
 在 O
-# B-neutral
+# O
 明星 I-neutral
-势力 I-neutral
-榜 I-neutral
+势力 I-positive
+榜 O
 # O
 内地 O
 榜上 O
@@ -4417,7 +4417,7 @@ http://t.cn/RcXXIsB O
 做 O
 了 O
 清洁 B-neutral
-面膜 I-neutral
+面膜 O
 一样 O
 #UNK# O
 ， O
@@ -4457,7 +4457,7 @@ cry O
 二哈 O
 ] O
 
-# O
+# B-positive
 #UNK# O
 分享 O
 # O
@@ -4590,7 +4590,7 @@ cry O
 顶 O
 ” O
 #UNK# O
-釜山 B-positive
+釜山 B-neutral
 电影节 I-positive
 被 O
 网友 O
@@ -4816,7 +4816,7 @@ http://t.cn/RZYd0jv O
 你 O
 发红包 O
 
-# O
+# B-neutral
 #UNK# O
 #UNK# O
 #UNK# O
@@ -4886,12 +4886,12 @@ http://t.cn/RZYd0jv O
 # B-neutral
 明星 I-neutral
 势力 I-neutral
-榜 I-neutral
-# B-neutral
+榜 O
+# O
 #UNK# I-neutral
 明星 I-neutral
 势力 I-neutral
-榜 I-neutral
+榜 O
 第 O
 1 O
 位 O
@@ -4906,7 +4906,7 @@ http://t.cn/RZYd0jv O
 #UNK# I-positive
 青云 I-positive
 志 I-positive
-#UNK# O
+#UNK# I-positive
 #UNK# O
 
 # B-positive
@@ -4952,7 +4952,7 @@ ppb O
 #UNK# O
 #UNK# O
 #UNK# O
-管理 O
+管理 I-positive
 的 O
 #UNK# O
 #UNK# O
@@ -4993,7 +4993,7 @@ M I-positive
 鹿 I-positive
 M I-positive
 
-# O
+# B-positive
 带 O
 着 O
 微博去 O
@@ -5148,7 +5148,7 @@ M I-positive
 #UNK# O
 #UNK# O
 。 O
-日本 O
+日本 B-neutral
 #UNK# O
 #UNK# O
 #UNK# O
@@ -5211,9 +5211,9 @@ M I-positive
 #UNK# O
 #UNK# O
 
-#UNK# O
-#UNK# O
-小 O
+#UNK# B-neutral
+#UNK# I-neutral
+小 I-neutral
 #UNK# O
 #UNK# O
 《 O
@@ -5290,15 +5290,15 @@ M I-positive
 号 O
 微信 B-neutral
 #UNK# I-neutral
-： I-neutral
+： O
 #UNK# I-neutral
 - I-neutral
-#UNK# I-neutral
-- I-neutral
+#UNK# O
+- O
 #UNK# O
 #UNK# O
 号 O
-微信 O
+微信 B-neutral
 
 # B-positive
 一句 I-positive
@@ -5319,7 +5319,7 @@ M I-positive
 顶 I-positive
 一万句 I-positive
 釜山 I-positive
-#UNK# O
+#UNK# I-positive
 #UNK# O
 个 O
 赞 O
@@ -5421,7 +5421,7 @@ M I-positive
 # B-positive
 - I-positive
 - I-positive
-- I-positive
+- O
 《 O
 #UNK# O
 的 O
@@ -5430,7 +5430,7 @@ M I-positive
 — O
 — O
 土耳其 B-positive
-#UNK# I-positive
+#UNK# O
 9 O
 地 O
 13 O
@@ -5794,7 +5794,7 @@ Z O
 家 I-neutral
 的 I-neutral
 猫 I-neutral
-#UNK# O
+#UNK# I-neutral
 #UNK# O
 就 O
 这样 O
@@ -6185,7 +6185,7 @@ Z O
 一个 O
 #UNK# O
 
-# O
+# B-positive
 #UNK# O
 #UNK# O
 # B-positive
@@ -6243,7 +6243,7 @@ Z O
 #UNK# O
 #UNK# O
 #UNK# O
-街 O
+街 I-neutral
 ， O
 #UNK# O
 #UNK# O
@@ -6549,15 +6549,15 @@ G O
 。 O
 
 分享 O
-LAY O
+LAY B-positive
 的 O
 歌曲 O
 《 O
-what B-positive
-U I-positive
-need I-positive
-? I-positive
-》 I-positive
+what B-neutral
+U I-neutral
+need I-neutral
+? I-neutral
+》 O
 #UNK# O
 
 #UNK# O
@@ -6789,7 +6789,7 @@ YY O
 手机 O
 YY O
 
-# O
+# B-positive
 #UNK# O
 #UNK# O
 # O
@@ -6904,7 +6904,7 @@ kkw O
 目前 O
 #UNK# O
 #UNK# O
-档 O
+档 I-neutral
 5 O
 月 O
 4 O
@@ -6919,8 +6919,8 @@ kkw O
 / O
 #UNK# O
 / O
-中国 B-neutral
-#UNK# I-neutral
+中国 O
+#UNK# O
 #UNK# I-neutral
 #UNK# I-neutral
 中国 I-neutral
@@ -7016,14 +7016,14 @@ kkw O
 。 O
 ​ O
 
-@ O
+@ B-positive
 #UNK# O
 已经 O
 在 O
 # B-neutral
 明星 I-neutral
 势力 I-neutral
-榜 I-neutral
+榜 O
 # O
 韩国 O
 榜上 O
@@ -7047,7 +7047,7 @@ kkw O
 #UNK# O
 
 【 O
-老 O
+老 B-positive
 #UNK# O
 #UNK# O
 镜头 O
@@ -7277,7 +7277,7 @@ app O
 ... O
 #UNK# O
 
-#UNK# O
+#UNK# B-neutral
 #UNK# O
 6 O
 以 O

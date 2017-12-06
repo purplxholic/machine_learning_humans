@@ -48,7 +48,7 @@ joint O
 in O
 Seattle O
 
-Food B-neutral
+Food O
 #UNK# O
 , O
 its O
@@ -717,7 +717,7 @@ you O
 off O
 – O
 
-#UNK# B-positive
+#UNK# O
 #UNK# I-positive
 Restaurant I-positive
 in O
@@ -2815,7 +2815,7 @@ live O
 nearby O
 . O
 
-The B-negative
+The O
 soup I-negative
 for O
 the O
@@ -4287,7 +4287,7 @@ lot O
 more O
 . O
 
-food B-positive
+food O
 was O
 fine O
 , O

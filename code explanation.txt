@@ -1,0 +1,209 @@
+how viterbi works:
+'''
+    huge_transition = {(START,O):0.,(START,B-postive):0.,...} 
+    huge_emission = {(WORD,TAG):0...,} : emission is TAG -> WORD
+    td = ['Hello','Bob','#UNK#']
+    #forward 
+    tags = ['O','B-postive','B-negative','B-neutral','I-positive','I-negative','I-neutral']
+    
+    v = for tag in tags 
+    where k = 1,...,n 
+    recursive case:
+    
+    find all the values going towards (k,v)
+    
+    eg for node y2 for word "WE"
+    
+    calculate all the pi values of possible combinations of states 
+    eg O -> B+ for the word "WE", O-> O for the word "WE", O-> B- for the word "WE", etc 
+    for k in range(1,len(ONE SENTENCE)): TODO: do some check to seperate STOP,START sequence 
+        eg y2 
+        for v in tags:
+            #in each y2's states 
+            for u in tags:
+                #test y2 state against all of y1's states 
+                if emission[("WE",v)] * transition[(u,v)] are not in the dicts:
+                    emission[("WE",v)] = 0 , transition[(u,v)]=0 <- whichever 
+
+                one_pi = all pi(k-1,v) * emission[("WE",v)] * transition[(u,v)]
+                #eg y2 = "O", y1 = "B-postiive", y2 = "O", y1 = "B-neutral"  , ETC 
+                temp pi(k,v)[u] = one_pi <- insert all values
+                #eg y2 = "O", y1 = "B-postiive" is inserted as "B-postiive" : 0.03 
+
+            max_pi_k_v[v] = max(temp pi(k,v)) <- use the weird max from dictionary fucntion to select the best score 
+            #eg for v = "O" , found that pi is max at 0.5 for u="I-neutral" among the different u for y2
+            #register as "O" : 0.5 (so found one score for one v)
+            
+        since we have finished finding the max pi(k,v) for y2, add to the dict all pi(k,v)
+        all pi(k,v)[k] = max_pi_k_v
+        
+
+    temp pi(k,v) dictionary =
+    {'B-POSITIVE':0.1,
+     'B-NEGATIVE':0.2,
+     ...
+    }
+    max_pi_k_v = 
+    {'O':0.5,
+    'B-positive':0.9,
+    ...}
+    
+    
+    create dictionary all pi(k,v)
+    = {1:
+        {
+        'B-POSITIVE':0.1,
+        'B-NEGATIVE':0.2,
+        ...}
+        
+        }
+    where the key is k/current node value  
+    '''
+   
+V1 Viterbi
+#td is test data 
+TAGS = ['O','B-positive','B-neutral','B-negative','I-positive','I-negative','I-neutral'] #ALL TAGS IN. 
+def viterbi(emission,transition,td):  
+    print("Doing Viterbi...")
+    massive_y_star = [] #contains tuples of word and tags 
+    #split into individual sentences
+    seperated_sentence = split_sentence(td)
+    #START OF VITERBI#
+    #try one sentence:
+#     fs = seperated_sentence[1]
+#     for base case y0 -> y1 
+    for fs in seperated_sentence:
+#         print("\nDoing new sentence")
+#         print(fs)
+        y_star = [] #contains tags 
+#         print("Doing START")
+        temp_pi={}
+        temp_all_tags_score = {}
+        all_pi = {}
+        
+        #doing y1 
+        for v in TAGS:
+            
+            max_pi_k_v =0
+
+            pi_prev = 0.0 
+            isBased = check_basecase(fs[0])
+            if isBased :
+                pi_prev = 1.0
+            emission_value = 0.0
+            transition_value = 0.0
+            ekey = (fs[1],v)
+            tkey = ('START',v)
+            if ekey in emission:
+                emission_value = emission[(fs[1],v)]
+            if tkey in transition:
+                transition_value = transition[tkey]
+            one_pi = pi_prev * emission_value * transition_value
+            temp_all_tags_score[v] = one_pi   
+        all_pi[1] = temp_all_tags_score
+
+#         print("Doing forward recursive")
+        for k in range(2,len(fs)-1): #ignore STOP
+            temp_all_tags_score = {}
+            for v in TAGS:
+                
+                temp_pi = {}
+
+                for u in TAGS:
+                    emission_current = 0.0 
+                    transition_current = 0.0 
+                    ekey = (fs[k],v)
+                    tkey = (u,v)
+    #                 print(ekey)
+    #                 print(tkey)
+                    if ekey in emission:
+                        emission_current = emission[ekey]
+                    if tkey in transition:
+                        transition_current = transition[tkey]
+                
+                    pi_prev = all_pi[k-1][u]
+    #                 one_pi = pi_prev + emission_current + transition_current
+                    one_pi = pi_prev * emission_current * transition_current
+    #                 print(u,"->",v,"Pi[k-1,v]: ",pi_prev," emission: ",emission_current," transition: ", transition_current," pi[k,v]: ", one_pi)
+                    temp_pi[u] = one_pi
+    #             print("\nFINISHED COMPARING PREV NODES FOR CURRENT NODE:",v," ",temp_pi)
+    #             print("\ncapturing max score to node ",v , "for ", fs[k]) 
+                temp_all_tags_score[v] = max(temp_pi.values())
+            all_pi[k] = temp_all_tags_score
+
+
+        #for last case, yn -> yn+1 = STOP 
+        k = len(fs) - 2
+        temp_pi_stop={}
+        temp_all_tags_score_stop = {}
+    #     print("Doing ",fs[k],"->","STOP")
+        for v in TAGS:
+            max_pi_k_v =0 
+            pi_prev = 0.0 
+            emission_value = 0.0
+            transition_value = 0.0
+            tkey = (v,'STOP') #fs[k+1] = STOP
+            if tkey in transition:
+                transition_value = transition[tkey]
+#             print(len(fs),len(fs) - 2,k,k-1)
+            if len(fs) == 3:
+                pi_prev = all_pi[k][v]
+            else:
+                pi_prev = all_pi[k-1][v]
+            one_pi = pi_prev * transition_value
+#             print("t p: ",transition_value,"pi[k-1,v]: ",pi_prev,"pi[n+1,v]: ",one_pi)
+            temp_pi_stop[v] = one_pi 
+#         max_pi_k_v = max(temp_pi_stop.values())  
+        all_pi[len(fs)-1] = max(temp_pi_stop.values())  
+        
+#         print("Doing backwards STOP")
+        #backwards 
+        y_star.append('STOP')
+        #for STOP 
+        n = len(fs) - 2 
+        yn_star_values= {}
+        for v in TAGS:
+            transition_value = 0.0
+            tkey = (v,'STOP') #fs[k+1] = STOP
+            if tkey in transition:
+                transition_value = transition[tkey]
+            pi_current = all_pi[n][v] * transition_value
+            yn_star_values[v] = pi_current
+        yn_star = max(yn_star_values,key = yn_star_values.get)
+        y_star.insert(0,yn_star)
+
+#         print("Doing backwards")
+        for n in range(len(fs)-3,1,-1): #don't include START 
+            yn_1_star_values = {}
+#             print("\ndoing word: ",fs[n])
+            for u in TAGS:
+                transition_value = 0.0
+                tkey = (u,y_star[0]) 
+#                 print(tkey[0],"->",tkey[1])
+                if tkey in transition:
+                    transition_value = transition[tkey]
+                pi_current = all_pi[n][u] * transition_value
+                yn_1_star_values[u] = pi_current
+            if max(yn_1_star_values.values()) == 0:
+                yn_1_star = 'O'
+            yn_1_star = max(yn_1_star_values, key = yn_1_star_values.get)
+            y_star.insert(0,yn_1_star)
+
+        #do START -> y1 
+#         print("Doing backwards START")
+        n = 1 
+        yn_star_values_start= {}
+        for v in TAGS:
+#             print("\ndoing START->",v,"for word ",fs[n])
+            transition_value = 0.0
+            tkey = ('START',v)
+            if tkey in transition:
+                transition_value = transition[tkey]
+            pi_current = all_pi[n][v] * transition_value
+            yn_star_values_start[v] = pi_current
+        yn_star_start = max(yn_star_values_start, key = yn_star_values_start.get)
+        y_star.insert(0,yn_star_start)
+        y_star.insert(0,"START")
+        massive_y_star.append(y_star)
+    massive_y_star = process_results(massive_y_star,seperated_sentence)
+    return massive_y_stars

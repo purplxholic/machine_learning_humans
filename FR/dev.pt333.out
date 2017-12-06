@@ -1592,7 +1592,7 @@ plus O
 sympas O
 . O
 
-Accueil B-negative
+Accueil O
 très O
 sympathique O
 . O
@@ -1636,7 +1636,7 @@ moules B-negative
 #UNK# O
 . O
 
-Accueil B-negative
+Accueil O
 très O
 très O
 sympa O
@@ -2333,7 +2333,7 @@ votre O
 chemin O
 . O
 
-Entrée B-negative
+Entrée O
 au I-negative
 chèvre I-negative
 chaud I-negative
@@ -2676,7 +2676,7 @@ est O
 généreuse O
 . O
 
-Plats B-neutral
+Plats B-negative
 bien O
 #UNK# O
 , O
@@ -2954,7 +2954,7 @@ avons O
 #UNK# O
 . O
 
-Accueil B-negative
+Accueil O
 et O
 service B-negative
 sont O

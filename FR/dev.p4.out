@@ -817,7 +817,7 @@ un O
 #UNK# O
 pour O
 un O
-établissement B-positive
+établissement B-negative
 #UNK# O
 en O
 avant O
@@ -847,7 +847,7 @@ on O
 vous O
 sert O
 une O
-bouteille O
+bouteille B-negative
 de O
 1 O
 #UNK# O
@@ -855,8 +855,8 @@ de O
 #UNK# O
 et O
 une O
-bouteille O
-de O
+bouteille B-negative
+de I-negative
 #UNK# O
 #UNK# O
 #UNK# O
@@ -1599,14 +1599,14 @@ sympathique O
 
 Des O
 serveurs B-negative
-#UNK# I-negative
-au I-negative
+#UNK# O
+au O
 possible O
 . O
 
 Un O
 tartare B-neutral
-de I-neutral
+de O
 saumon I-neutral
 avec O
 trop O
@@ -1650,7 +1650,7 @@ bien O
 mangé O
 avec O
 des O
-plats O
+plats B-negative
 #UNK# O
 comme O
 à O
@@ -2801,7 +2801,7 @@ le O
 ( O
 #UNK# O
 une O
-mousse O
+mousse B-negative
 #UNK# O
 de O
 quelques O
@@ -2865,7 +2865,7 @@ en O
 #UNK# O
 , O
 son O
-boeuf O
+boeuf B-negative
 #UNK# O
 #UNK# O
 de O
@@ -3095,7 +3095,7 @@ vient O
 pas O
 à O
 un O
-buffet O
+buffet B-negative
 à O
 volonté O
 pour O
@@ -3168,8 +3168,8 @@ du O
 patron B-negative
 et I-negative
 de I-negative
-sa I-negative
-#UNK# I-negative
+sa O
+#UNK# O
 . O
 
 #UNK# O
@@ -3731,7 +3731,7 @@ le O
 cadre B-positive
 au I-positive
 #UNK# I-positive
-de I-positive
+de O
 la O
 cuisine B-positive
 ! O
