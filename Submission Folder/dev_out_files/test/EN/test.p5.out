@@ -20,14 +20,14 @@ We O
 ate O
 on O
 the O
-outside B-positive
-patio I-positive
-area I-positive
+outside O
+#UNK# O
+area O
 for O
 dinner O
 on O
 a O
-Saturday O
+#UNK# O
 night O
 . O
 
@@ -35,7 +35,7 @@ night O
 my O
 happy O
 #UNK# O
-upon O
+#UNK# O
 #UNK# O
 that O
 the O
@@ -46,27 +46,27 @@ the O
 #UNK# O
 thing O
 about O
-Ray's O
+#UNK# O
 ! O
 
 The O
-bread O
+#UNK# O
 was O
 #UNK# O
 , O
 the O
-salad B-positive
+#UNK# O
 was O
 overpriced O
 and O
-empty O
+#UNK# O
 . O
 
 They O
 have O
 a O
 huge O
-selection O
+#UNK# O
 of O
 different O
 #UNK# O
@@ -75,7 +75,7 @@ and O
 all O
 of O
 their O
-salads B-positive
+#UNK# O
 are O
 great O
 . O
@@ -95,7 +95,7 @@ I O
 left O
 the O
 dinner O
-hungry O
+#UNK# O
 and O
 #UNK# O
 #UNK# O
@@ -107,10 +107,10 @@ Food B-positive
 #UNK# O
 is O
 #UNK# O
-location O
+#UNK# O
 . O
 
-Even O
+#UNK# O
 the O
 #UNK# O
 , O
@@ -119,15 +119,15 @@ I O
 #UNK# O
 find O
 too O
-dry O
+#UNK# O
 , O
 were O
 good O
 . O
 
-#UNK# B-positive
-menu I-positive
-selection I-positive
+#UNK# O
+menu B-positive
+#UNK# O
 . O
 
 #UNK# O
@@ -141,7 +141,7 @@ not O
 to O
 make O
 any O
-special O
+special I-positive
 #UNK# O
 ! O
 
@@ -181,7 +181,7 @@ and O
 I O
 are O
 #UNK# O
-restaurant O
+restaurant B-positive
 #UNK# O
 , O
 and O
@@ -199,7 +199,7 @@ our O
 friend O
 had O
 recommended O
-Flatbush O
+#UNK# O
 #UNK# O
 . O
 
@@ -212,14 +212,14 @@ but O
 still O
 delicious O
 with O
-goat B-positive
-cheese I-positive
-and I-positive
-#UNK# I-positive
-( I-positive
-#UNK# I-positive
+#UNK# O
+cheese O
+and O
+#UNK# O
+( O
+#UNK# O
 was O
-kind O
+#UNK# O
 of O
 #UNK# O
 though O
@@ -238,14 +238,14 @@ the O
 #UNK# O
 that O
 is O
-seen O
+#UNK# O
 on O
 #UNK# O
 #UNK# O
 - O
 which O
 #UNK# O
-recently O
+#UNK# O
 got O
 in O
 #UNK# O
@@ -272,16 +272,16 @@ recommend O
 I O
 thought O
 this O
-place O
+place B-positive
 was O
-totally O
+#UNK# O
 #UNK# O
 . O
 
 The O
 #UNK# O
 are O
-dry O
+#UNK# O
 , O
 #UNK# O
 and O
@@ -289,12 +289,12 @@ way O
 overpriced O
 . O
 
-The B-neutral
-pizza I-neutral
-’ I-neutral
-s I-neutral
+The O
+pizza B-positive
+’ O
+#UNK# O
 are O
-light O
+#UNK# O
 and O
 #UNK# O
 . O
@@ -306,19 +306,19 @@ taste O
 of O
 all O
 three O
-items O
+#UNK# O
 on O
 her O
-plate O
+#UNK# O
 , O
 and O
 they O
 were O
-superb O
+#UNK# O
 . O
 
 The O
-bagel O
+#UNK# O
 was O
 huge O
 . O
@@ -341,15 +341,15 @@ or O
 ) O
 , O
 large O
-portions B-positive
+#UNK# O
 and O
 creative O
 sushi B-positive
-dishes I-positive
+dishes O
 this O
 is O
 your O
-place O
+place B-positive
 ... O
 
 I O
@@ -364,12 +364,12 @@ will O
 give O
 them O
 another O
-chance O
+#UNK# O
 and O
 make O
 sure O
 to O
-tell O
+#UNK# O
 them O
 to O
 #UNK# O
@@ -397,7 +397,7 @@ there O
 once O
 and O
 #UNK# O
-yes O
+#UNK# O
 ... O
 you O
 will O
@@ -409,15 +409,15 @@ will O
 ... O
 
 This O
-place O
+place B-positive
 , O
 which O
 is O
 only O
 a O
 few O
-months O
-old O
+#UNK# O
+#UNK# O
 , O
 is O
 #UNK# O
@@ -430,9 +430,9 @@ is O
 we O
 ordered O
 the O
-#UNK# B-positive
-#UNK# I-positive
-prawns I-positive
+#UNK# O
+#UNK# O
+#UNK# O
 which O
 we O
 always O
@@ -440,7 +440,7 @@ order O
 at O
 every O
 #UNK# O
-restaurant O
+restaurant B-positive
 to O
 #UNK# O
 the O
@@ -453,7 +453,7 @@ food B-positive
 . O
 
 This O
-place O
+place B-positive
 #UNK# O
 me O
 away O
@@ -463,14 +463,14 @@ far O
 my O
 new O
 favorite O
-restaurant O
+restaurant B-positive
 on O
 the O
 #UNK# O
 side O
 . O
 
-On O
+#UNK# O
 my O
 meal B-positive
 I O
@@ -479,10 +479,10 @@ to O
 #UNK# O
 back O
 my O
-eggs B-negative
+#UNK# O
 for O
 a O
-simple O
+#UNK# O
 #UNK# O
 of O
 #UNK# O
@@ -507,19 +507,19 @@ I O
 the O
 meal B-positive
 all O
-together O
+#UNK# O
 . O
 
 #UNK# O
 is O
 a O
 good O
-restaurant O
+restaurant B-positive
 , O
 but O
 it's O
 nothing O
-special O
+special I-positive
 . O
 
 #UNK# O
@@ -528,8 +528,8 @@ romantic O
 with O
 only O
 around O
-15 O
-tables O
+#UNK# O
+#UNK# O
 at O
 most O
 . O
@@ -538,19 +538,19 @@ My O
 friend O
 got O
 the O
-mushroom B-positive
-pizza I-positive
+#UNK# O
+pizza B-positive
 which O
 tasted O
 better O
 . O
 
-Always O
+#UNK# O
 great O
 service B-positive
 ! O
 
-Maybe O
+#UNK# O
 #UNK# O
 #UNK# O
 
@@ -588,8 +588,8 @@ the O
 #UNK# O
 . O
 
-Its O
-location O
+#UNK# O
+#UNK# O
 is O
 good O
 and O
@@ -607,12 +607,12 @@ are O
 very O
 reasonable O
 , O
-makes O
+#UNK# O
 #UNK# O
 go O
 back O
 to O
-Suan B-positive
+#UNK# O
 again O
 and O
 again O
@@ -622,7 +622,7 @@ This O
 is O
 a O
 fun O
-restaurant O
+restaurant B-positive
 to O
 go O
 to O
@@ -646,23 +646,23 @@ at O
 bar O
 because O
 #UNK# O
-restaurant O
+restaurant B-positive
 next O
 #UNK# O
 was O
 #UNK# O
 . O
 
-Highly O
+#UNK# O
 recommended O
 . O
 
 Excellent O
-sashimi O
+#UNK# O
 , O
 and O
 the O
-#UNK# B-positive
+#UNK# O
 roll I-positive
 is O
 #UNK# O
@@ -680,7 +680,7 @@ attentive O
 . O
 
 Great O
-sushi O
+sushi B-positive
 experience O
 . O
 
@@ -690,7 +690,7 @@ have O
 been O
 at O
 the O
-restaurant O
+restaurant B-positive
 for O
 years O
 and O
@@ -701,16 +701,16 @@ family O
 
 #UNK# O
 the O
-steak O
+#UNK# O
 came O
 , O
 the O
-server B-positive
+#UNK# O
 told O
 us O
 that O
 the O
-steak O
+#UNK# O
 did O
 not O
 come O
@@ -721,10 +721,10 @@ and O
 #UNK# O
 I O
 #UNK# O
-something O
+#UNK# O
 from O
 the O
-menu O
+menu B-positive
 . O
 
 #UNK# O
@@ -745,14 +745,14 @@ extremely O
 . O
 
 The O
-pancakes B-positive
+#UNK# O
 should O
 be O
 #UNK# O
 ( O
 at O
 least O
-8 O
+#UNK# O
 " O
 ) O
 to O
@@ -762,15 +762,15 @@ the O
 even O
 with O
 the O
-unique O
+#UNK# O
 #UNK# O
 . O
 
-Well O
+#UNK# O
 ... O
 they O
 can O
-run O
+#UNK# O
 but O
 they O
 can't O
@@ -784,16 +784,16 @@ mind O
 #UNK# O
 . O
 
-Ray's O
+#UNK# O
 is O
-something O
+#UNK# O
 of O
 a O
-Seattle O
+#UNK# O
 #UNK# O
 , O
 but O
-given O
+#UNK# O
 its O
 #UNK# O
 #UNK# O
@@ -819,7 +819,7 @@ and O
 service B-positive
 . O
 
-Everyone O
+#UNK# O
 that O
 sat O
 in O
@@ -851,29 +851,29 @@ want O
 to O
 #UNK# O
 in O
-line O
+#UNK# O
 on O
-Sunday O
+#UNK# O
 for O
 an O
 hour O
 to O
 get O
 average O
-brunch O
+#UNK# O
 food B-positive
 , O
 then O
 I O
 would O
-put O
+#UNK# O
 #UNK# O
 at O
 the O
 top O
 of O
 the O
-list O
+list I-positive
 . O
 
 The O
@@ -885,7 +885,7 @@ party O
 #UNK# O
 is O
 a O
-cute O
+#UNK# O
 and O
 sweet O
 #UNK# O
@@ -902,7 +902,7 @@ is O
 my O
 favorite O
 Indian O
-restaurant O
+restaurant B-positive
 in O
 the O
 city O
@@ -920,7 +920,7 @@ and O
 I O
 dine O
 at O
-Bukhara B-positive
+#UNK# O
 often O
 as O
 she O
@@ -929,18 +929,18 @@ she O
 it O
 . O
 
-At O
+#UNK# O
 first O
 we O
 were O
 a O
 little O
-taken O
+#UNK# O
 #UNK# O
 , O
 as O
 this O
-seemed O
+#UNK# O
 to O
 #UNK# O
 a O
@@ -948,18 +948,18 @@ problem O
 , O
 although O
 the O
-restaurant O
+restaurant B-positive
 looked O
-fairly O
-empty O
+#UNK# O
+#UNK# O
 , O
 but O
 they O
 #UNK# O
-put O
+#UNK# O
 the O
 table O
-together O
+#UNK# O
 for O
 us O
 . O
@@ -967,13 +967,13 @@ us O
 #UNK# O
 not O
 try O
-unless O
+#UNK# O
 you're O
 just O
 going O
 there O
 to O
-hang O
+#UNK# O
 out O
 like O
 the O
@@ -985,7 +985,7 @@ who O
 #UNK# O
 have O
 no O
-sense O
+#UNK# O
 of O
 taste O
 . O
@@ -1023,17 +1023,17 @@ The O
 decor B-positive
 in O
 this O
-place O
+place B-positive
 is O
 very O
 #UNK# O
 and O
 the O
-kind O
+#UNK# O
 of O
-place O
+place B-positive
 you O
-expect O
+#UNK# O
 in O
 the O
 #UNK# O
@@ -1043,7 +1043,7 @@ not O
 romantic O
 , O
 just O
-simple O
+#UNK# O
 , O
 small O
 and O
@@ -1051,7 +1051,7 @@ and O
 . O
 
 We O
-used O
+#UNK# O
 to O
 #UNK# O
 most O
@@ -1075,15 +1075,15 @@ the O
 people O
 that O
 I O
-bring O
+#UNK# O
 there O
 go O
 back O
 on O
 their O
-own O
+#UNK# O
 and O
-bring O
+#UNK# O
 #UNK# O
 friends O
 ! O
@@ -1091,7 +1091,7 @@ friends O
 The O
 waitress B-negative
 , O
-seems O
+#UNK# O
 to O
 be O
 more O
@@ -1107,13 +1107,13 @@ actually O
 #UNK# O
 #UNK# O
 of O
-bathroom B-negative
+#UNK# O
 , O
 the O
 #UNK# O
-bathroom B-negative
+#UNK# O
 was O
-disgusting O
+#UNK# O
 . O
 
 As O
@@ -1138,9 +1138,9 @@ work O
 
 The O
 best O
-pad B-positive
 #UNK# O
-i've O
+#UNK# O
+#UNK# O
 ever O
 had O
 . O
@@ -1158,7 +1158,7 @@ a O
 #UNK# O
 I O
 am O
-hungry O
+#UNK# O
 and O
 I O
 only O
@@ -1213,31 +1213,31 @@ your O
 to O
 make O
 this O
-place O
+place B-positive
 look O
 #UNK# O
 and O
-modern B-positive
+#UNK# O
 . O
 
 I O
 don't O
 know O
 #UNK# O
-anyone O
+#UNK# O
 would O
 want O
 to O
-write O
+#UNK# O
 a O
 great O
 review O
 about O
 this O
-place O
+place B-positive
 . O
 
-By O
+#UNK# O
 the O
 time O
 we O
@@ -1279,10 +1279,10 @@ the O
 experience O
 of O
 good O
-food B-negative
-and I-negative
-belly I-negative
-#UNK# I-negative
+food B-positive
+and O
+#UNK# O
+#UNK# O
 ! O
 
 #UNK# O
@@ -1292,12 +1292,12 @@ you O
 me O
 ? O
 
-With O
+#UNK# O
 so O
 many O
 great O
-breakfast B-positive
-/ I-positive
+#UNK# O
+/ O
 lunch O
 places O
 in O
@@ -1313,13 +1313,13 @@ the O
 wait O
 or O
 any O
-extra O
+#UNK# O
 #UNK# O
 to O
 visit O
 . O
 
-She O
+#UNK# O
 #UNK# O
 to O
 #UNK# O
@@ -1359,7 +1359,7 @@ The O
 atmosphere B-positive
 is O
 nothing O
-special O
+special I-positive
 , O
 but O
 it O
@@ -1367,14 +1367,14 @@ it O
 like O
 a O
 Sushi B-positive
-establishment O
+#UNK# O
 in O
 #UNK# O
 . O
 
-Once O
+#UNK# O
 you're O
-inside O
+#UNK# O
 , O
 the O
 real O
@@ -1402,14 +1402,14 @@ my O
 I O
 #UNK# O
 for O
-Cafe O
-St O
+#UNK# O
+#UNK# O
 . O
 #UNK# O
 . O
 
 $ O
-6 O
+#UNK# O
 and O
 there O
 is O
@@ -1426,21 +1426,21 @@ and O
 #UNK# O
 . O
 
-Always O
+#UNK# O
 good O
 . O
 
-Loved O
+#UNK# O
 it O
 ! O
 
 The O
-portions B-positive
+#UNK# O
 are O
 large O
 and O
 the O
-servers B-positive
+#UNK# O
 always O
 #UNK# O
 us O
@@ -1455,7 +1455,7 @@ only O
 #UNK# O
 on O
 this O
-restaurant O
+restaurant B-positive
 is O
 the O
 prices O
@@ -1511,7 +1511,7 @@ are O
 when O
 they O
 actually O
-cost O
+#UNK# O
 $ O
 . O
 
@@ -1519,23 +1519,23 @@ $ O
 time O
 , O
 we O
-wouldn't O
 #UNK# O
-ordering O
+#UNK# O
+#UNK# O
 anything O
 else O
 other O
 than O
 some O
-simple O
+#UNK# O
 #UNK# O
 appetizers O
 and O
-drinks O
+drinks B-positive
 . O
 
 #UNK# O
-sushi O
+sushi B-positive
 ! O
 
 The O
@@ -1554,15 +1554,15 @@ back O
 #UNK# O
 some O
 good O
-#UNK# B-positive
-Chinese I-positive
-food I-positive
+#UNK# O
+#UNK# O
+food B-positive
 at O
 incredible O
 prices O
 ... O
 
-4 O
+#UNK# O
 #UNK# O
 
 #UNK# O
@@ -1574,7 +1574,7 @@ staff B-positive
 
 Love O
 this O
-place O
+place B-positive
 , O
 every O
 time O
@@ -1594,38 +1594,38 @@ always O
 go O
 . O
 
-Yes O
+#UNK# O
 , O
 they O
-use O
 #UNK# O
-ingredients B-positive
+#UNK# O
+#UNK# O
 , O
 but O
 even O
 #UNK# O
-ingredients B-positive
+#UNK# O
 don't O
 make O
 for O
 good O
 pizza B-positive
-unless O
+#UNK# O
 someone O
 #UNK# O
 how O
 to O
 get O
 the O
-crust O
+#UNK# O
 right O
 . O
 
 The O
-menu O
+menu B-positive
 is O
-fairly O
-simple O
+#UNK# O
+#UNK# O
 without O
 much O
 #UNK# O
@@ -1645,7 +1645,7 @@ it O
 #UNK# O
 on O
 the O
-menu O
+menu B-positive
 is O
 less O
 than O
@@ -1654,11 +1654,11 @@ amazing O
 
 #UNK# O
 on O
-Park O
+#UNK# O
 #UNK# O
 is O
 simply O
-disgusting O
+#UNK# O
 . O
 
 It's O
@@ -1682,8 +1682,8 @@ I O
 even O
 enjoy O
 the O
-mashed B-positive
-potatoes I-positive
+#UNK# O
+#UNK# O
 because O
 it O
 was O
@@ -1692,8 +1692,8 @@ completely O
 #UNK# O
 the O
 chicken B-positive
-and I-positive
-spinach I-positive
+and O
+#UNK# O
 . O
 
 Don't O
@@ -1701,19 +1701,19 @@ go O
 with O
 a O
 #UNK# O
-group O
+#UNK# O
 than O
-4 O
+#UNK# O
 ! O
 
-Had O
+#UNK# O
 a O
 late O
 night O
 dinner O
 on O
 a O
-Saturday O
+#UNK# O
 night O
 . O
 
@@ -1729,11 +1729,11 @@ the O
 City O
 ; O
 the O
-place O
+place B-positive
 the O
 #UNK# O
 reviews O
-describe O
+#UNK# O
 #UNK# O
 like O
 they O
@@ -1752,7 +1752,7 @@ they O
 would O
 #UNK# O
 the O
-location O
+#UNK# O
 to O
 the O
 #UNK# O
@@ -1763,7 +1763,7 @@ or O
 . O
 
 I O
-expected O
+#UNK# O
 quite O
 a O
 bit O
@@ -1772,10 +1772,10 @@ from O
 such O
 an O
 expensive O
-menu O
+menu B-positive
 . O
 
-30 O
+#UNK# O
 minutes O
 went O
 by O
@@ -1794,7 +1794,7 @@ off O
 ! O
 
 The O
-menu O
+menu B-positive
 is O
 #UNK# O
 but O
@@ -1844,8 +1844,8 @@ friendly O
 . O
 
 The O
-#UNK# B-positive
-salad I-positive
+#UNK# O
+#UNK# O
 I O
 ordered O
 had O
@@ -1870,18 +1870,18 @@ should O
 not O
 have O
 #UNK# O
-toppings B-positive
+#UNK# O
 - O
 the O
-crust O
+#UNK# O
 #UNK# O
 like O
 the O
 best O
 , O
-#UNK# B-positive
-#UNK# I-positive
-bread I-positive
+#UNK# O
+#UNK# O
+#UNK# O
 ! O
 
 – O
@@ -1891,14 +1891,14 @@ is O
 to O
 see O
 a O
-place O
+place B-positive
 that O
 was O
 once O
 " O
 THE O
 " O
-place O
+place B-positive
 to O
 #UNK# O
 and O
@@ -1911,7 +1911,7 @@ or O
 now O
 be O
 the O
-place O
+place B-positive
 that O
 is O
 a O
@@ -1927,7 +1927,7 @@ the O
 evening O
 , O
 this O
-place O
+place B-positive
 #UNK# O
 a O
 well O
@@ -1937,11 +1937,11 @@ with O
 it O
 , O
 NY O
-crowd O
+#UNK# O
 . O
 
 This O
-establishment O
+#UNK# O
 is O
 the O
 real O
@@ -1964,18 +1964,18 @@ is O
 wonderful O
 . O
 
-Nice O
+#UNK# O
 for O
 one O
 time O
-special O
-occasion O
+special I-positive
+#UNK# O
 . O
 
 I O
 had O
-yummy O
-lamb B-positive
+#UNK# O
+#UNK# O
 #UNK# O
 , O
 #UNK# O
@@ -1985,7 +1985,7 @@ lamb B-positive
 , O
 #UNK# O
 , O
-etc O
+#UNK# O
 . O
 
 It O
@@ -2005,8 +2005,8 @@ I O
 was O
 there O
 for O
-brunch O
-recently O
+#UNK# O
+#UNK# O
 , O
 and O
 we O
@@ -2041,11 +2041,11 @@ no O
 , O
 so O
 the O
-sushi O
+sushi B-positive
 was O
 bland O
 and O
-disgusting O
+#UNK# O
 . O
 
 This O
@@ -2070,9 +2070,9 @@ NY O
 #UNK# O
 is O
 too O
-dry O
+#UNK# O
 , O
-tuna B-negative
+#UNK# O
 wasn't O
 so O
 fresh O
@@ -2085,7 +2085,7 @@ A O
 
 Great O
 Indian O
-food O
+food B-positive
 
 – O
 The O
@@ -2100,11 +2100,11 @@ the O
 quality O
 is O
 #UNK# O
-during O
+#UNK# O
 lunch O
 . O
 
-Food B-neutral
+Food B-positive
 is O
 excellent O
 . O
@@ -2113,7 +2113,7 @@ excellent O
 who O
 #UNK# O
 this O
-place O
+place B-positive
 must O
 be O
 from O
@@ -2124,7 +2124,7 @@ different O
 where O
 #UNK# O
 , O
-dry O
+#UNK# O
 and O
 #UNK# O
 are O
@@ -2133,13 +2133,13 @@ are O
 
 #UNK# O
 a O
-sushi O
+sushi B-positive
 #UNK# O
 , O
 you O
 love O
 #UNK# O
-cut O
+#UNK# O
 fish B-positive
 , O
 great O
@@ -2148,35 +2148,14 @@ sake B-positive
 a O
 #UNK# O
 #UNK# O
-location O
+#UNK# O
 , O
 and O
 of O
-course O
+#UNK# O
 : O
 #UNK# O
 , O
-Tuna O
-, O
-#UNK# O
-, O
-#UNK# O
-#UNK# O
-, O
-#UNK# O
-, O
-#UNK# O
-, O
-#UNK# O
-, O
-Sea O
-#UNK# O
-, O
-#UNK# O
-, O
-Lobster O
-, O
-Sea O
 #UNK# O
 , O
 #UNK# O
@@ -2184,9 +2163,30 @@ Sea O
 #UNK# O
 #UNK# O
 , O
-Blue B-positive
-#UNK# I-positive
-Tuna I-positive
+#UNK# O
+, O
+#UNK# O
+, O
+#UNK# O
+, O
+#UNK# O
+#UNK# O
+, O
+#UNK# O
+, O
+#UNK# O
+, O
+#UNK# O
+#UNK# O
+, O
+#UNK# O
+, O
+#UNK# O
+#UNK# O
+, O
+#UNK# O
+#UNK# O
+#UNK# O
 , O
 #UNK# O
 , O
@@ -2219,7 +2219,7 @@ home O
 The O
 pizza B-positive
 is O
-yummy O
+#UNK# O
 and O
 I O
 like O
@@ -2236,18 +2236,18 @@ go O
 and O
 try O
 this O
-place O
+place B-positive
 . O
 
 Just O
 because O
 it's O
 cheap O
-does O
-NOT O
+#UNK# O
+#UNK# O
 mean O
 the O
-portions B-positive
+#UNK# O
 are O
 small O
 or O
@@ -2256,7 +2256,7 @@ food B-positive
 is O
 #UNK# O
 , O
-IT O
+#UNK# O
 #UNK# O
 #UNK# O
 ! O
@@ -2269,7 +2269,7 @@ the O
 ' O
 , O
 was O
-totally O
+#UNK# O
 #UNK# O
 and O
 always O
@@ -2309,7 +2309,7 @@ you O
 like O
 your O
 food B-positive
-spicy I-positive
+#UNK# O
 - O
 its O
 rather O
@@ -2333,8 +2333,8 @@ some O
 #UNK# O
 
 The O
-lobster B-positive
-sandwich I-positive
+#UNK# O
+#UNK# O
 is O
 good O
 and O
@@ -2358,8 +2358,8 @@ outstanding O
 , O
 #UNK# O
 the O
-salmon B-positive
-dish I-positive
+#UNK# O
+dish O
 I O
 had O
 . O
@@ -2372,15 +2372,15 @@ the O
 #UNK# O
 . O
 
-She O
+#UNK# O
 had O
-heard O
+#UNK# O
 from O
 a O
 #UNK# O
 about O
 this O
-place O
+place B-positive
 . O
 
 Service B-positive
@@ -2388,7 +2388,7 @@ was O
 very O
 good O
 - O
-prompt O
+#UNK# O
 , O
 attentive O
 and O
@@ -2400,7 +2400,7 @@ have O
 been O
 to O
 #UNK# O
-twice O
+#UNK# O
 and O
 both O
 times O
@@ -2409,7 +2409,7 @@ very O
 #UNK# O
 . O
 
-Never O
+#UNK# O
 had O
 one O
 #UNK# O
@@ -2424,7 +2424,7 @@ won't O
 be O
 disappointed O
 , O
-there's O
+#UNK# O
 also O
 #UNK# O
 #UNK# O
@@ -2436,14 +2436,14 @@ was O
 great O
 , O
 the O
-margaritas B-positive
+#UNK# O
 too O
 but O
 the O
 waitress B-negative
 was O
 too O
-busy O
+#UNK# O
 being O
 nice O
 to O
@@ -2472,16 +2472,16 @@ Great O
 #UNK# O
 
 This O
-restaurant O
-used O
+restaurant B-positive
+#UNK# O
 to O
 be O
 our O
-regular O
+#UNK# O
 #UNK# O
 night O
 dinner O
-location O
+#UNK# O
 . O
 
 We O
@@ -2498,9 +2498,9 @@ were O
 a O
 few O
 small O
-pieces B-negative
-of I-negative
-chicken I-negative
+#UNK# O
+of O
+chicken B-positive
 , O
 all O
 #UNK# O
@@ -2531,7 +2531,7 @@ a O
 lot O
 of O
 #UNK# O
-guys O
+#UNK# O
 with O
 #UNK# O
 #UNK# O
@@ -2564,9 +2564,9 @@ Brooklyn O
 . O
 
 overpriced O
-japanese B-positive
-food I-positive
-with I-positive
+#UNK# O
+food B-positive
+with O
 mediocre O
 service B-positive
 
@@ -2595,7 +2595,7 @@ the O
 . O
 
 The O
-sushi O
+sushi B-positive
 was O
 excellent O
 and O
@@ -2603,32 +2603,32 @@ the O
 wait O
 staff B-positive
 was O
-quick O
+#UNK# O
 . O
 
 But O
 too O
 far O
-east O
+#UNK# O
 ! O
 
 The O
-entree O
+#UNK# O
 was O
 bland O
 and O
 small O
 , O
-dessert B-negative
+#UNK# O
 was O
 not O
 #UNK# O
 . O
 
-Poor O
-customer B-negative
-service I-negative
-/ I-negative
+#UNK# O
+#UNK# O
+service B-positive
+/ O
 poor O
 pizza B-positive
 . O
@@ -2639,8 +2639,8 @@ here O
 is O
 long O
 for O
-#UNK# B-positive
-sum I-positive
+#UNK# O
+#UNK# O
 , O
 but O
 if O
@@ -2648,15 +2648,15 @@ you O
 don't O
 like O
 #UNK# O
-tables O
+#UNK# O
 or O
 if O
 the O
-#UNK# B-positive
-#UNK# I-positive
-#UNK# I-positive
-sum I-positive
-atmosphere I-positive
+#UNK# O
+#UNK# O
+#UNK# O
+#UNK# O
+atmosphere B-positive
 is O
 not O
 your O
@@ -2678,11 +2678,11 @@ However O
 I O
 think O
 this O
-place O
+place B-positive
 is O
 a O
 good O
-hang O
+#UNK# O
 out O
 spot B-positive
 . O
@@ -2693,10 +2693,10 @@ not O
 what O
 one O
 would O
-expect O
+#UNK# O
 from O
 a O
-joint O
+#UNK# O
 in O
 this O
 price O
@@ -2705,17 +2705,17 @@ price O
 
 #UNK# O
 - O
-relaxed O
+#UNK# O
 and O
 #UNK# O
 . O
 
-Oh O
+#UNK# O
 , O
 and O
 I O
 never O
-write O
+#UNK# O
 #UNK# O
 just O
 was O
@@ -2725,7 +2725,7 @@ by O
 how O
 bad O
 this O
-place O
+place B-positive
 was O
 , O
 I O
@@ -2746,14 +2746,14 @@ spot B-positive
 for O
 2 O
 
-Never O
+#UNK# O
 have O
 I O
 had O
 such O
 #UNK# O
-delivery B-negative
-guys I-negative
+#UNK# O
+#UNK# O
 ( O
 a O
 lot O
@@ -2776,7 +2776,7 @@ a O
 ) O
 who O
 always O
-seem O
+#UNK# O
 disappointed O
 with O
 their O
@@ -2792,15 +2792,15 @@ love O
 
 Service B-positive
 was O
-prompt O
+#UNK# O
 and O
 #UNK# O
 . O
 
-#UNK# B-positive
-salad I-positive
+#UNK# O
+#UNK# O
 was O
-superb O
+#UNK# O
 . O
 
 In O
@@ -2814,15 +2814,15 @@ another O
 great O
 #UNK# O
 of O
-Suan B-positive
+#UNK# O
 ) O
 ! O
 ! O
 ! O
 
-Toons O
+#UNK# O
 has O
-recently O
+#UNK# O
 been O
 #UNK# O
 , O
@@ -2832,7 +2832,7 @@ now O
 a O
 very O
 #UNK# O
-space B-negative
+#UNK# O
 . O
 
 #UNK# O
@@ -2872,12 +2872,12 @@ table O
 . O
 
 In O
-#UNK# B-positive
-/ I-positive
-#UNK# I-positive
-#UNK# I-positive
-/ I-positive
-#UNK# I-positive
+#UNK# O
+/ O
+#UNK# O
+#UNK# O
+/ O
+#UNK# O
 Village O
 this O
 is O
@@ -2907,7 +2907,7 @@ food B-positive
 was O
 ok O
 and O
-fair O
+#UNK# O
 nothing O
 to O
 go O
@@ -2917,22 +2917,22 @@ go O
 there O
 was O
 a O
-guy O
-playing O
+#UNK# O
+#UNK# O
 the O
 #UNK# O
 and O
 #UNK# O
 at O
 the O
-bar B-positive
-area I-positive
+bar O
+area O
 which O
 was O
 #UNK# O
 from O
 the O
-dinning O
+#UNK# O
 area O
 . O
 
@@ -2956,30 +2956,30 @@ other O
 restaurants O
 , O
 he O
-replied O
+#UNK# O
 this O
 is O
 not O
 #UNK# O
 , O
 every O
-place O
-makes O
+place B-positive
+#UNK# O
 things O
 #UNK# O
 
 We O
 went O
 to O
-celebrate O
+#UNK# O
 two O
 #UNK# O
 and O
 wanted O
 to O
 do O
-something O
-special O
+#UNK# O
+special I-positive
 and O
 different O
 . O
@@ -2988,7 +2988,7 @@ Just O
 remember O
 , O
 the O
-later O
+#UNK# O
 you O
 go O
 , O
@@ -3045,7 +3045,7 @@ to O
 #UNK# O
 with O
 the O
-previous O
+#UNK# O
 #UNK# O
 . O
 
@@ -3083,13 +3083,13 @@ city O
 
 Great O
 value O
-sushi O
+sushi B-positive
 with O
 high O
 quality O
 & O
 nice O
-setting B-positive
+#UNK# O
 . O
 
 This O
@@ -3097,7 +3097,7 @@ is O
 the O
 #UNK# O
 wonderful O
-restaurant O
+restaurant B-positive
 in O
 all O
 of O
@@ -3124,9 +3124,9 @@ with O
 friends O
 ... O
 
-Casa B-negative
-La I-negative
-Femme I-negative
+#UNK# O
+#UNK# O
+#UNK# O
 is O
 to O
 #UNK# O
@@ -3144,11 +3144,11 @@ to O
 A O
 #UNK# O
 friend O
-recently O
-visited O
+#UNK# O
+#UNK# O
 and O
 our O
-group O
+#UNK# O
 of O
 three O
 just O
@@ -3171,7 +3171,7 @@ for O
 a O
 date O
 or O
-group O
+#UNK# O
 #UNK# O
 . O
 
@@ -3199,7 +3199,7 @@ fresh O
 #UNK# O
 ... O
 
-Overall O
+#UNK# O
 I O
 would O
 recommend O
@@ -3241,9 +3241,9 @@ first O
 one O
 ... O
 the O
-scallops B-positive
-and I-positive
-prawns I-positive
+#UNK# O
+and O
+#UNK# O
 was O
 so O
 fresh O
@@ -3252,7 +3252,7 @@ and O
 cooked O
 . O
 
-Save O
+#UNK# O
 your O
 money O
 and O
@@ -3277,7 +3277,7 @@ but O
 they O
 #UNK# O
 that O
-line O
+#UNK# O
 really O
 fast O
 ! O
@@ -3286,23 +3286,23 @@ fast O
 of O
 a O
 small O
-place O
+place B-positive
 but O
 I O
-guess O
+#UNK# O
 if O
 they O
 are O
 not O
 too O
-busy O
+#UNK# O
 might O
 be O
-able O
+#UNK# O
 to O
 #UNK# O
 a O
-group O
+#UNK# O
 or O
 #UNK# O
 . O
@@ -3328,7 +3328,7 @@ staff B-positive
 - O
 #UNK# O
 Service B-negative
-/ I-negative
+/ O
 #UNK# O
 
 next O
@@ -3337,7 +3337,7 @@ that O
 we O
 ordered O
 were O
-prawns B-positive
+#UNK# O
 and O
 #UNK# O
 with O
@@ -3348,7 +3348,7 @@ When O
 we O
 finally O
 were O
-able O
+#UNK# O
 to O
 #UNK# O
 someone O
@@ -3378,13 +3378,13 @@ same O
 person O
 who O
 had O
-taken O
+#UNK# O
 our O
 order O
 . O
 
 They O
-seemed O
+#UNK# O
 to O
 #UNK# O
 to O
@@ -3393,22 +3393,22 @@ us O
 #UNK# O
 , O
 #UNK# O
-plates O
+#UNK# O
 without O
-asking O
+#UNK# O
 if O
 we O
 were O
 done O
 ( O
 my O
-sister O
+#UNK# O
 still O
 had O
 her O
 #UNK# O
 in O
-hand O
+#UNK# O
 ) O
 . O
 
@@ -3427,7 +3427,7 @@ in O
 The O
 side O
 of O
-potatoes O
+#UNK# O
 is O
 to O
 die O
@@ -3453,7 +3453,7 @@ each O
 #UNK# O
 on O
 their O
-menu O
+menu B-positive
 at O
 least O
 once O
@@ -3467,11 +3467,11 @@ excellent O
 #UNK# O
 spot B-positive
 in O
-Park O
+#UNK# O
 #UNK# O
 , O
 the O
-sushi O
+sushi B-positive
 is O
 #UNK# O
 good O
@@ -3492,11 +3492,11 @@ is O
 really O
 attentive O
 and O
-charming O
+#UNK# O
 . O
 
 best O
-restaurant O
+restaurant B-positive
 in O
 the O
 world O
@@ -3505,24 +3505,24 @@ great O
 decor B-positive
 , O
 great O
-customer B-negative
-service I-negative
+#UNK# O
+service B-positive
 , O
 friendly O
-manager O
+manager B-negative
 
-Well O
+#UNK# O
 , O
 I O
-guess O
-maybe O
+#UNK# O
+#UNK# O
 it O
 might O
 be O
 #UNK# O
 for O
 the O
-management B-negative
+#UNK# O
 to O
 pay O
 a O
@@ -3538,23 +3538,23 @@ some O
 #UNK# O
 . O
 
-Restaurant B-positive
+#UNK# O
 with O
 a O
 view B-positive
 
 I O
-wish O
+#UNK# O
 I O
 could O
 like O
 this O
-place O
+place B-positive
 more O
 , O
 and O
 I O
-wish O
+#UNK# O
 someone O
 would O
 #UNK# O
@@ -3577,7 +3577,7 @@ great O
 #UNK# O
 , O
 they O
-fix O
+#UNK# O
 it O
 for O
 you O
@@ -3608,7 +3608,7 @@ been O
 #UNK# O
 . O
 
-Delicious O
+#UNK# O
 ... O
 ! O
 
@@ -3627,7 +3627,7 @@ they O
 have O
 been O
 very O
-busy O
+#UNK# O
 , O
 which O
 probably O
@@ -3636,7 +3636,7 @@ for O
 the O
 #UNK# O
 of O
-conversation O
+#UNK# O
 . O
 
 The O
@@ -3651,11 +3651,11 @@ get O
 the O
 #UNK# O
 #UNK# O
-menu O
+menu B-positive
 and O
 your O
 #UNK# O
-bottle B-positive
+#UNK# O
 ( O
 or O
 two O
@@ -3666,14 +3666,14 @@ wine B-positive
 from O
 an O
 extensive O
-selection B-positive
-of I-positive
-wines I-positive
+#UNK# O
+of O
+#UNK# O
 . O
 
 Try O
-#UNK# B-positive
-#UNK# I-positive
+#UNK# O
+#UNK# O
 roll I-positive
 . O
 
@@ -3684,7 +3684,7 @@ $ O
 20 O
 , O
 and O
-toppings B-positive
+#UNK# O
 are O
 about O
 $ O
@@ -3702,13 +3702,13 @@ have O
 had O
 far O
 better O
-pancakes B-positive
+#UNK# O
 at O
 a O
 #UNK# O
 #UNK# O
-specialty O
-restaurant O
+#UNK# O
+restaurant B-positive
 that O
 were O
 a O
@@ -3719,12 +3719,12 @@ but O
 #UNK# O
 . O
 
-First O
+#UNK# O
 of O
 all O
 , O
 this O
-place O
+place B-positive
 is O
 #UNK# O
 not O
@@ -3749,11 +3749,11 @@ to O
 say O
 about O
 this O
-place O
+place B-positive
 . O
 
 ( O
-She O
+#UNK# O
 was O
 actually O
 going O
@@ -3763,7 +3763,7 @@ me O
 to O
 another O
 #UNK# O
-restaurant O
+restaurant B-positive
 right O
 across O
 the O
@@ -3772,7 +3772,7 @@ but O
 they O
 were O
 not O
-open O
+#UNK# O
 yet O
 even O
 though O
@@ -3781,7 +3781,7 @@ was O
 a O
 few O
 minutes O
-past O
+#UNK# O
 their O
 #UNK# O
 time O
@@ -3797,7 +3797,7 @@ to O
 day O
 - O
 sometimes O
-they're O
+#UNK# O
 very O
 nice O
 , O
@@ -3826,19 +3826,19 @@ very O
 experience O
 . O
 
-Once O
+#UNK# O
 you O
 try O
 it O
 for O
 a O
-special O
-occasion O
+special I-positive
+#UNK# O
 #UNK# O
 .. O
 you O
 can't O
-stop O
+#UNK# O
 ! O
 
 I O
@@ -3862,7 +3862,7 @@ the O
 #UNK# O
 #UNK# O
 for O
-sushi O
+sushi B-positive
 as O
 the O
 #UNK# O
@@ -3881,7 +3881,7 @@ I O
 have O
 eaten O
 at O
-Saul O
+#UNK# O
 , O
 many O
 times O
@@ -3899,7 +3899,7 @@ good O
 This O
 is O
 the O
-place O
+place B-positive
 to O
 #UNK# O
 and O
@@ -3911,25 +3911,25 @@ food B-positive
 the O
 #UNK# O
 can O
-offer O
+#UNK# O
 . O
 
-On O
+#UNK# O
 a O
 hot O
 day O
 it O
 was O
-fabulous O
+#UNK# O
 to O
-stop O
+#UNK# O
 in O
 and O
 enjoy O
 lunch O
 . O
 
-Never O
+#UNK# O
 got O
 an O
 #UNK# O
@@ -3946,10 +3946,10 @@ many O
 dishes O
 but O
 the O
-BEST O
+#UNK# O
 was O
 the O
-lobster B-positive
+#UNK# O
 3 O
 #UNK# O
 . O
@@ -3957,11 +3957,11 @@ lobster B-positive
 We O
 waited O
 over O
-30 O
+#UNK# O
 minutes O
 for O
 our O
-drinks O
+drinks B-positive
 and O
 over O
 1 O
@@ -3988,14 +3988,14 @@ too O
 ! O
 
 The O
-crowd O
+#UNK# O
 is O
 #UNK# O
 #UNK# O
 , O
-young O
+#UNK# O
 and O
-old O
+#UNK# O
 . O
 
 The O
@@ -4010,7 +4010,7 @@ casual O
 . O
 
 We O
-put O
+#UNK# O
 in O
 our O
 order O
@@ -4018,7 +4018,7 @@ and O
 although O
 we O
 ordered O
-4 O
+#UNK# O
 appetizers O
 , O
 the O
@@ -4028,7 +4028,7 @@ didn't O
 #UNK# O
 #UNK# O
 minutes O
-later O
+#UNK# O
 ... O
 #UNK# O
 #UNK# O
@@ -4039,13 +4039,13 @@ later O
 #UNK# O
 is O
 so O
-cute O
+#UNK# O
 and O
 #UNK# O
 , O
 good O
 for O
-business O
+#UNK# O
 although O
 we O
 were O
@@ -4064,15 +4064,15 @@ was O
 well O
 done O
 and O
-dry O
+#UNK# O
 . O
 
 Went O
 to O
 this O
-place O
+place B-positive
 this O
-place O
+place B-positive
 on O
 a O
 real O
@@ -4081,14 +4081,14 @@ night O
 and O
 #UNK# O
 a O
-quick O
+#UNK# O
 meal B-positive
 . O
 
 #UNK# O
 at O
 this O
-restaurant O
+restaurant B-positive
 will O
 give O
 #UNK# O
@@ -4098,7 +4098,7 @@ anything O
 and O
 in O
 the O
-end O
+#UNK# O
 , O
 not O
 one O
@@ -4118,7 +4118,7 @@ if O
 you O
 like O
 #UNK# O
-cuisine O
+#UNK# O
 ! O
 
 The O
@@ -4129,18 +4129,18 @@ to O
 #UNK# O
 ; O
 the O
-French B-positive
-#UNK# I-positive
-soup I-positive
-#UNK# I-positive
+#UNK# O
+#UNK# O
+#UNK# O
+#UNK# O
 yet O
 not O
 #UNK# O
-impressive O
+#UNK# O
 , O
 and O
 the O
-desserts O
+#UNK# O
 not O
 #UNK# O
 in O
@@ -4152,14 +4152,13 @@ It O
 is O
 #UNK# O
 and O
-slightly O
-soggy O
+#UNK# O
+#UNK# O
 . O
 
 Great O
-open O
+#UNK# O
 and O
 friendly O
 ambience B-positive
 . O
-
